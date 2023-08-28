@@ -56,11 +56,11 @@ class MainWindow(QMainWindow):
         
         # Create a QLabel widget to display company description
         self.description_label = QLabel(self)
-        self.description_label.setGeometry(30, 200, 600, 30)
+        self.description_label.setGeometry(30, 200, 600, 60)
         self.description_label.setWordWrap(True)
         
         self.info_label = QLabel(self)
-        self.info_label.setGeometry(30, 250, 600, 30)
+        self.info_label.setGeometry(30, 280, 600, 30)
         self.info_label.setWordWrap(True)
         
         self.exclude_checkbox = QCheckBox('Exclude This Company', self)
@@ -89,18 +89,10 @@ class MainWindow(QMainWindow):
         
     
     def refreshUI(self):
-        if self.selected_company:
             with open('updated_companies.json', 'r') as file:
                 companies_data = json.load(file)
                 for entry in companies_data:
                     if entry['company'] == self.selected_company:
-                        
-                        description = entry['summary']
-                        self.description_label.setText(f"{self.selected_company} describe themselves as: {description}")
-                        
-                        website_link = entry['Website']
-                        website_html = f'<a href="{website_link}">{website_link}</a>'
-                        self.website_label.setText(website_html)
                         
                         excluded = entry['excluded_from_search']
                         applied = entry['already_applied']
@@ -113,14 +105,25 @@ class MainWindow(QMainWindow):
                             self.applied_date_input.setDate(applied_date)
                         break
 
-            # Update filtered and applied counts
-            num_filtered_companies = sum(1 for entry in companies_data if not entry['excluded_from_search'])
-            num_applied = sum(1 for entry in companies_data if entry['already_applied'])
+                # Update filtered and applied counts
+                num_filtered_companies = sum(1 for entry in companies_data if not entry['excluded_from_search'])
+                num_applied = sum(1 for entry in companies_data if entry['already_applied'])
 
-            # Update companies info label text
-            self.companies_info_label.setText(f"Included in the search: {num_filtered_companies}\n"
-                                            f"Already applied to: {num_applied}")
-
+                # Update companies info label text
+                self.companies_info_label.setText(f"Included in the search: {num_filtered_companies}\n"
+                                                    f"Already applied to: {num_applied}")
+            
+    def resetView(self):
+        self.exclude_checkbox.setChecked(False)
+        self.applied_checkbox.setChecked(False)
+        self.applied_date_input.setVisible(False)  # Hide the date input when resetting
+        self.applied_date_input.setDate(QDate.currentDate())
+        self.description_label.setText("")
+        self.info_label.setText("")
+        self.selected_company = None  # Reset the selected company to None
+        self.dropdown.setCurrentIndex(0)  # Reset the dropdown to the first item
+        self.website_label.setText("")
+        self.refreshUI() 
 
 
     # Slot to update the selected_company variable
@@ -177,7 +180,8 @@ class MainWindow(QMainWindow):
             with open('updated_companies.json', 'w') as file:
                 json.dump(companies_data, file, indent=4)
             print("Changes saved to JSON file.")
-            self.refreshUI()
+        self.resetView()
+             
         
 if __name__ == '__main__':
     app = QApplication(sys.argv)
