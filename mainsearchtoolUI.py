@@ -7,6 +7,9 @@ from PyQt5.QtWidgets import QCheckBox, QDateEdit
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QCheckBox, QDateEdit
 from PyQt5.QtCore import Qt, QDate
+from PyQt5.QtGui import QDesktopServices
+from PyQt5.QtCore import QUrl
+
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -18,14 +21,15 @@ class MainWindow(QMainWindow):
         self.setGeometry(300, 300, 700, 600)
         self.setWindowTitle('Project Jobs')
 
-        self.search_button = QPushButton('Search', self)
-        self.search_button.clicked.connect(self.searchCompany)
-        self.search_button.setGeometry(50, 150, 200, 30)
-
         self.dropdown = QComboBox(self)
-        self.dropdown.setGeometry(50, 100, 200, 30)
+        self.dropdown.setGeometry(30, 50, 200, 30)
         self.dropdown.setEditable(True)
         self.dropdown.setPlaceholderText('Enter text...')
+        
+        self.search_button = QPushButton('Search', self)
+        self.search_button.clicked.connect(self.searchCompany)
+        self.search_button.setGeometry(30, 100, 200, 30)
+
         
         # Connect the activated signal to the updateSelectedCompany slot
         self.dropdown.activated[str].connect(self.updateSelectedCompany)
@@ -43,7 +47,7 @@ class MainWindow(QMainWindow):
             num_applied = sum(1 for entry in filtered_companies if entry['already_applied'])
             
             self.companies_info_label = QLabel(self)
-            self.companies_info_label.setGeometry(50, 450, 600, 30)
+            self.companies_info_label.setGeometry(30, 450, 600, 30)
             self.companies_info_label.setWordWrap(True)
             self.companies_info_label.setText(f"Included in the search: {num_filtered_companies}\n"
                                             f"Already applied to: {num_applied}")
@@ -52,27 +56,37 @@ class MainWindow(QMainWindow):
         
         # Create a QLabel widget to display company description
         self.description_label = QLabel(self)
-        self.description_label.setGeometry(50, 200, 600, 100)
+        self.description_label.setGeometry(30, 200, 600, 30)
         self.description_label.setWordWrap(True)
         
+        self.info_label = QLabel(self)
+        self.info_label.setGeometry(30, 250, 600, 30)
+        self.info_label.setWordWrap(True)
+        
         self.exclude_checkbox = QCheckBox('Exclude This Company', self)
-        self.exclude_checkbox.setGeometry(50, 320, 200, 30)
+        self.exclude_checkbox.setGeometry(30, 320, 200, 30)
 
         self.applied_checkbox = QCheckBox('Already Applied', self)
-        self.applied_checkbox.setGeometry(50, 360, 200, 30)
+        self.applied_checkbox.setGeometry(230, 320, 200, 30)
         self.applied_checkbox.stateChanged.connect(self.toggleAppliedDateInput)
 
         self.applied_date_input = QDateEdit(self)
-        self.applied_date_input.setGeometry(50, 400, 200, 30)
+        self.applied_date_input.setGeometry(230, 350, 200, 30)
         self.applied_date_input.setCalendarPopup(True)
         self.applied_date_input.setDate(QDate.currentDate())
         self.applied_date_input.setVisible(False)  # Initially hidden
         
         self.save_button = QPushButton('Save Changes', self)
         self.save_button.clicked.connect(self.saveChanges)
-        self.save_button.setGeometry(50, 500, 200, 30)
+        self.save_button.setGeometry(30, 500, 200, 30)
         
+        self.website_label = QLabel(self)
+        self.website_label.setGeometry(30, 150, 600, 30)
+        self.website_label.setTextInteractionFlags(Qt.TextBrowserInteraction)
+        self.website_label.setOpenExternalLinks(True)  # Make links clickable
+
         self.refreshUI()
+        
     
     def refreshUI(self):
         if self.selected_company:
@@ -80,11 +94,17 @@ class MainWindow(QMainWindow):
                 companies_data = json.load(file)
                 for entry in companies_data:
                     if entry['company'] == self.selected_company:
+                        
                         description = entry['summary']
+                        self.description_label.setText(f"{self.selected_company} describe themselves as: {description}")
+                        
+                        website_link = entry['Website']
+                        website_html = f'<a href="{website_link}">{website_link}</a>'
+                        self.website_label.setText(website_html)
+                        
                         excluded = entry['excluded_from_search']
                         applied = entry['already_applied']
                         applied_date = entry['application_date']
-                        self.description_label.setText(f"{self.selected_company} describe themselves as: {description}")
                         self.exclude_checkbox.setChecked(excluded)
                         self.applied_checkbox.setChecked(applied)
                         self.applied_date_input.setVisible(applied)
@@ -118,10 +138,16 @@ class MainWindow(QMainWindow):
                 companies_data = json.load(file)
                 for entry in companies_data:
                     if entry['company'] == self.selected_company:
+                        website_link = entry['Website']
+                        website_html = f'<a href="{website_link}">{website_link}</a>'
+                        self.website_label.setText(website_html)
+                        
                         description = entry['summary']
                         self.description_label.setText(f"{self.selected_company} describe themselves as: {description}")
+                        
+                        self.info_label.setText(f"Contact information: {entry['Email']}, {entry['Phone']}")
+                    
                         break
-            print("Input is", self.selected_company)
         if self.applied_checkbox.isChecked():
             applied_date = self.applied_date_input.date().toString(Qt.ISODate)
             # Update JSON with applied status and date

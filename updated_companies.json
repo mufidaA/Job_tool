@@ -3,17 +3,27 @@
         "company": "Sovelluskehitt\u00e4j\u00e4t (Deveteam Oy, Identoi Oy and Isoft.ai Oy)",
         "summary": "We are a software house specializing in application development and consulting.",
         "link": "https://oulucompanies.fi/en/sovelluskehittajat-deveteam-oy-identoi-oy-and-isoft-ai-oy/",
-        "excluded_from_search": false,
-        "already_applied": false,
-        "application_date": ""
+        "excluded_from_search": true,
+        "already_applied": true,
+        "application_date": "2023-08-28",
+        "Website": "https://sovelluskehittajat.fi",
+        "Phone": "0405343932",
+        "Email": "juha.vayrynen@live.fi",
+        "Address": "Yrttipellontie 1 D\n90230 Oulu",
+        "Business Sector": "ICT AI, Artificial intelligence, AI, B2B, B2C, IoT"
     },
     {
         "company": "SEP Solutions",
         "summary": "Consulting, coaching and hands-on help for product development, internationalisation and funding, especially public subsidies (e.g. Business Finland\u2019s grants).",
         "link": "https://oulucompanies.fi/en/sep-solutions-2/",
-        "excluded_from_search": false,
+        "excluded_from_search": true,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "About the company database",
+        "Phone": "",
+        "Email": "",
+        "Address": "Satu Niemel\u00e4 | 040 53 63 486 | satu@sep.consulting\n\nErasmus van Niekerk | 040 83 52 635 | erasmus@sep.consulting",
+        "Business Sector": "Yleinen B2B, B2C"
     },
     {
         "company": "Arctic Crossing Consulting Oy",
@@ -21,7 +31,12 @@
         "link": "https://oulucompanies.fi/en/arctic-crossing-consulting-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://arcticcrossing.com/index.php/english/",
+        "Phone": "+358 50 3878638",
+        "Email": "asavukoski@arcticcrossing.com",
+        "Address": "CEO Aimo Savukoski\nKoskitie 39 a 9, 90500 Oulu",
+        "Business Sector": "Automation technology, Bioenergy & biofuels, Bioproducts & materials, Building management systems, CHP & DHC, Circular economy, Clean water, Cleanweb & IoT, Construction, Consultancy services for health industry, Consulting services, Contract Manufacturing, Development of BusinessModel, Development of CoreSystems, Electronics industry, Energy & Resource efficiency, Energy production & distribution, Funding, assurance, Green buildings, Health & Life Science, Health Services, Health technology and eHealth, Healthcare and Wellness services, HW-development, HW-products, ICT, Internet Service Provider, Machinery and equipment manufacture, Maintenance and automation, Manufacturing industry, Measurement technology, Metal production, Mining, Mobility, R&D-site, Recycling, Renewables & smart grid, Smart factory, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Sustainable city, SW-development, SW-products, System Integration, Testing and Certification Services, Trade, Services, Logistics, Tourism, Waste Management, Waste-to-energy, Wholesale trade, Wind energy 5G, AI, AR, Artificial intelligence, AI, Augmented reality, B2B, B2C, Business premises, Chipset, Connectivity, Diagnostics, e-Services, eHealth, Equipment, Fotonics, HealthTech, Imaging, Indoor location, Industrial Design, Industry, IoT, Laboratory solutions, Online shopping, R&amp;D, Robotics, SmartCity"
     },
     {
         "company": "H-Chuks \u2013 Cleaning Services",
@@ -29,7 +44,12 @@
         "link": "https://oulucompanies.fi/en/h-chuks-cleaning-services/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.hchuks.com/",
+        "Phone": "+358413155359",
+        "Email": "harrison@hchuks.com",
+        "Address": "Peuratie 6 E 90650 Oulu.\n\nFor our cleaning service booking or inquiries, call/text: +358465411495 or +358413155359.",
+        "Business Sector": "Maintenance services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Kaltio Technologies Oy",
@@ -37,7 +57,12 @@
         "link": "https://oulucompanies.fi/en/kaltio-technologies-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://kaltiot.com",
+        "Phone": "+358 405 795 256",
+        "Email": "sales@kaltiot.com",
+        "Address": "Kirkkokatu 18, 90100 Oulu",
+        "Business Sector": "Cleanweb & IoT, Construction, ICT, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products B2B, Indoor location, IoT, Monitoring, SmartCity"
     },
     {
         "company": "Teknoware",
@@ -45,15 +70,25 @@
         "link": "https://oulucompanies.fi/en/teknoware/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.teknoware.com/",
+        "Phone": "+3583883020",
+        "Email": "info@teknoware.com",
+        "Address": "Sep\u00e4nkatu 20, 90100 Oulu",
+        "Business Sector": "Development of CoreSystems, Electronics industry, Energy & Resource efficiency, HW-development, HW-products, ICT, Machinery and equipment manufacture, Manufacturing industry, R&D-site, Recycling, Smart factory, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products, System Integration, Trade, Services, Logistics, Tourism B2B, Connectivity, Equipment, Fintech, Industrial Design, Industry, Interior design, R&amp;D"
     },
     {
         "company": "Kaira Films",
         "summary": "KAIRA FILMS is a Finland-based video production company.We have gathered a team of industry professionals to meet the needs of any demanding film production. We offer services from Video Production to Music Production, to match the visual with audio.",
         "link": "https://oulucompanies.fi/en/kaira-films/",
-        "excluded_from_search": false,
+        "excluded_from_search": true,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kairafilms.com/main",
+        "Phone": "040 179 7990",
+        "Email": "Info@kairafilms.com",
+        "Address": "Tarkka-ampujankatu 14 LH 4\n90120 Oulu, Finland",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts Audiovisual production, B2B"
     },
     {
         "company": "Latifi Ikkunanpesu",
@@ -61,7 +96,12 @@
         "link": "https://oulucompanies.fi/en/latifi-ikkunanpesu/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "",
+        "Phone": "+358408456629",
+        "Email": "latifi.ikkunanpesu@gmail.com",
+        "Address": "Yritt\u00e4j\u00e4 : Edmond Latifi \nPuh: +358408456629\nY-tunnus : 3313532-3\nlatifi.ikkunanpesu@gmail.com",
+        "Business Sector": "Creative Industries, Health & Life Science, Other, Other services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Yritysklinikka \u2013 Business Clinic",
@@ -69,7 +109,12 @@
         "link": "https://oulucompanies.fi/en/yritysklinikka-business-clinic/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://yritysklinikka.fi/",
+        "Phone": "0452608494",
+        "Email": "harri@yritysklinikka.fi",
+        "Address": "Oulu",
+        "Business Sector": "Advertising and communication services, Consulting services, Creative Industries, Trade, Services, Logistics, Tourism Graphic design"
     },
     {
         "company": "Lihasjumi.fi",
@@ -77,23 +122,38 @@
         "link": "https://oulucompanies.fi/en/lihasjumi-fi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://lihasjumi.fi",
+        "Phone": "",
+        "Email": "asiakaspalvelu@lihasjumi.fi",
+        "Address": "Puusep\u00e4nkuja 1 A 19, 90130 Oulu",
+        "Business Sector": "Health & Life Science, Healthcare and Wellness services"
     },
     {
         "company": "GPV",
         "summary": "GPV was founded in Denmark in 1961 and is today one of Europe\u2019s leading electronics manufacturers.",
         "link": "https://oulucompanies.fi/en/enics/",
-        "excluded_from_search": false,
+        "excluded_from_search": true,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://gpv-group.com/",
+        "Phone": "",
+        "Email": "info.oulu@gpv-group.com",
+        "Address": "GPV Finland (Oulu) Oy\nTechnopolis\nKiviharjunlenkki 1 E\n90220 Oulu\nFinland",
+        "Business Sector": "Contract Manufacturing, HW-development, Manufacturing industry, Other manufacture, R&D-site, Sustainability, System Integration, Testing and Certification Services, Yleinen B2B, Industry, NPI services, R&amp;D"
     },
     {
         "company": "Owatec Group Oy",
         "summary": "Wastewater treatment and dewatering solutions for industrial sites.",
         "link": "https://oulucompanies.fi/en/owatec-group-oy/",
-        "excluded_from_search": false,
+        "excluded_from_search": true,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.owatec.fi",
+        "Phone": "+358401320135",
+        "Email": "jenni.rossi@owatec.fi",
+        "Address": "Communication and Marketing",
+        "Business Sector": "Circular economy, Clean water, Mobility, Recycling, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Water technology Industry, Treatment"
     },
     {
         "company": "Suomen Valotorni Oy",
@@ -101,7 +161,12 @@
         "link": "https://oulucompanies.fi/en/suomen-valotorni-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.valotorni.fi",
+        "Phone": "",
+        "Email": "",
+        "Address": "https://www.valotorni.fi",
+        "Business Sector": "Daily consumer goods trade, Speciality retailing, Trade, Services, Logistics, Tourism B2B, B2C, Equipment, Interior design, Online shopping"
     },
     {
         "company": "Maalikuninkaat Oy",
@@ -109,7 +174,12 @@
         "link": "https://oulucompanies.fi/en/maalikuninkaat-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://maalikuninkaat.fi",
+        "Phone": "044 238 9011",
+        "Email": "toimisto@maalikuninkaat.fi",
+        "Address": "Purolehto 7b, 02920 Espoo",
+        "Business Sector": "Trade, Services, Logistics, Tourism"
     },
     {
         "company": "BroCover Oy",
@@ -117,7 +187,12 @@
         "link": "https://oulucompanies.fi/en/brocover-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://oulunkattoremontit.fi",
+        "Phone": "+358443244377",
+        "Email": "julius.brocover@gmail.com",
+        "Address": "H\u00f6yhtyrinne 24, 90910 Kontio",
+        "Business Sector": "Trade, Services, Logistics, Tourism"
     },
     {
         "company": "USBIMED",
@@ -125,7 +200,12 @@
         "link": "https://oulucompanies.fi/en/usbimed-2/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.usbimed.fi",
+        "Phone": "+358 40 5595726",
+        "Email": "terhi.holappa@usbimed.fi",
+        "Address": "Suopunkitie 4A\n90650 Oulu\nFinland",
+        "Business Sector": "Consultancy services for health industry, Creative Industries, Design services, Health & Life Science, Health technology and eHealth, ICT, SW-development, Testing and Certification Services eHealth, HealthTech, Physical rehabilitation, Service Design"
     },
     {
         "company": "USBIMED",
@@ -133,7 +213,12 @@
         "link": "https://oulucompanies.fi/en/usbimed/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.usbimed.fi",
+        "Phone": "+358 40 5595726",
+        "Email": "terhi.holappa@usbimed.fi",
+        "Address": "Suopunkitie 4A\n90650 Oulu\nFinland",
+        "Business Sector": "Consultancy services for health industry, Creative Industries, Design services, Health & Life Science, Health technology and eHealth, ICT, SW-development, Testing and Certification Services eHealth, HealthTech, Service Design"
     },
     {
         "company": "Nordic Teletherapy Oy",
@@ -141,7 +226,12 @@
         "link": "https://oulucompanies.fi/en/nordic-teletherapy-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://teleterapia.fi",
+        "Phone": "",
+        "Email": "teleterapia@teleterapia.fi",
+        "Address": "teleterapia@teleterapia.fi",
+        "Business Sector": "Consultancy services for health industry, Health & Life Science, Health technology and eHealth, Healthcare and Wellness services e-Services, Health, Social and health care systems"
     },
     {
         "company": "SHJ Group Oy",
@@ -149,7 +239,12 @@
         "link": "https://oulucompanies.fi/en/shj-group-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://smartbox.fi/en/home/",
+        "Phone": "050 4252 123",
+        "Email": "seppo.kangas@smartbox.fi",
+        "Address": "SHJ Group Oy\nHaaransuontie 11\n90240 OULU\n\nSeppo Kangas \n050 4252 123\nseppo.kangas@smartbox.fi\n\nJarkko Honkonen\n0400 685 903\njarkko.honkonen@smartbox.fi",
+        "Business Sector": "Other services, Trade, Services, Logistics, Tourism B2B, Logistics"
     },
     {
         "company": "Paxsudos IT",
@@ -157,7 +252,12 @@
         "link": "https://oulucompanies.fi/en/paxsudos-it/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://paxsudos.com",
+        "Phone": "+358 40 220 39 10",
+        "Email": "info@paxsudos.com",
+        "Address": "Webstore only",
+        "Business Sector": "ICT, R&D-site, SW-development, SW-products, System Integration B2B, B2C, IoT, R&amp;D"
     },
     {
         "company": "Laboratorio Ule\u00e5borg Oy",
@@ -165,7 +265,12 @@
         "link": "https://oulucompanies.fi/en/laboratorio-uleaborg-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.uleaborg.com/",
+        "Phone": "+358 40 5428590",
+        "Email": "mika@uleaborg.com",
+        "Address": "Hallituskatu 13-17 e 53, 90100, Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Design services, Media Animation, Audiovisual production, B2B, B2C, e-Services, Graphic design, Online shopping, Service Design"
     },
     {
         "company": "Sointuk\u00e4\u00e4nn\u00f6s",
@@ -173,7 +278,12 @@
         "link": "https://oulucompanies.fi/en/sointukaannos/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://sointukaannos.fi/en/",
+        "Phone": "+358 44 3255470",
+        "Email": "suvi@sointukaannos.fi",
+        "Address": "Suvi Partanen / Sointuk\u00e4\u00e4nn\u00f6s: tel. +358 44 3255470, email suvi@sointukaannos.fi",
+        "Business Sector": "Consulting services, Creative Industries, Education, Other services, Performing arts, Trade, Services, Logistics, Tourism B2B, B2C, Music services"
     },
     {
         "company": "Eija Nevala Design Oy",
@@ -181,7 +291,12 @@
         "link": "https://oulucompanies.fi/en/eija-nevala-design-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.eijanevala.fi/en/home/",
+        "Phone": "+358 (0)50 3681 814",
+        "Email": "info@eijanevala.fi",
+        "Address": "Eija Nevala Design Oy\nVillenkuja 3\n91900 Liminka",
+        "Business Sector": "Creative Industries, Design services B2B, Industrial Design, Interior design"
     },
     {
         "company": "Probot Oy",
@@ -189,7 +304,12 @@
         "link": "https://oulucompanies.fi/en/probot-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.probot.fi/",
+        "Phone": "+358 44 3333439",
+        "Email": "contact@probot.fi",
+        "Address": "Probot Oy\nOstomiehentie 12 A 8-10\n90420 Oulu / Metsokangas\nFinland",
+        "Business Sector": "Agriculture, Automation technology, Bioproducts & materials, Circular economy, Electronics industry, Food industry and food processing, Forest, paper and wood industry, Machinery and equipment manufacture, Maintenance and automation, Manufacturing industry, Measurement technology, Metal production, Mobility, Other manufacture, Recycling, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry B2B, Equipment, Industry, Logistics, Robotics"
     },
     {
         "company": "Naava",
@@ -197,7 +317,12 @@
         "link": "https://oulucompanies.fi/en/naava/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.naava.io/en/",
+        "Phone": "+358 144 591 503",
+        "Email": "sales@naava.io",
+        "Address": "Naava Showroom\nTechnopolis Ydinkeskusta\nSep\u00e4nkatu 20\n90100 Oulu",
+        "Business Sector": "Air quality, Health & Life Science, Health technology and eHealth B2B, Business premises, HealthTech, Interior design, Office premises"
     },
     {
         "company": "Suspension Verstas Kiviranta",
@@ -205,7 +330,12 @@
         "link": "https://oulucompanies.fi/en/suspension-verstas-kiviranta/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "About the company database",
+        "Phone": "+358400284938",
+        "Email": "Verstaskiviranta@gmail.com",
+        "Address": "Ville Kiviranta, Ratamotie 44 90800 Oulu",
+        "Business Sector": "Yleinen"
     },
     {
         "company": "Trapesti Oy",
@@ -213,7 +343,12 @@
         "link": "https://oulucompanies.fi/en/trapestioy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.trapesti.fi",
+        "Phone": "+358 400 714 636",
+        "Email": "info@trapesti.fi",
+        "Address": "S\u00e4hk\u00f6posti: info@trapesti.fi\nPuhelinnumero: +358 400 714 636\nK\u00e4yntiosoite: Yliopistokatu 9, \n90570 Oulu",
+        "Business Sector": "Creative Industries, Design services, Other services, Trade, Services, Logistics, Tourism Business premises, e-Services, Office premises, Service Design"
     },
     {
         "company": "SunElement Oy",
@@ -221,7 +356,12 @@
         "link": "https://oulucompanies.fi/en/sunelement-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.sunelement.fi",
+        "Phone": "+358 44 5849 440",
+        "Email": "info@sunelement.fi",
+        "Address": "Suvantokatu 7, 90140 Oulu",
+        "Business Sector": "Yleinen B2B, B2C, Industry"
     },
     {
         "company": "Fingersoft",
@@ -229,7 +369,12 @@
         "link": "https://oulucompanies.fi/en/fingersoft/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.fingersoft.com/",
+        "Phone": "",
+        "Email": "business@fingersoft.com",
+        "Address": "Aleksanterinkatu 4-6\n90100 OULU",
+        "Business Sector": "Creative Industries, Gaming industry"
     },
     {
         "company": "Arvojes Oy",
@@ -237,7 +382,12 @@
         "link": "https://oulucompanies.fi/en/arvojes-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.arvojes.fi",
+        "Phone": "+358442306377",
+        "Email": "eerik.peltomaki@arvojes.fi",
+        "Address": "Tarkka-ampujankatu 14LH1, 90120 Oulu Finland",
+        "Business Sector": "Other services, Social Services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Kotisivusi.fi",
@@ -245,7 +395,12 @@
         "link": "https://oulucompanies.fi/en/kotisivusi-fi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kotisivusi.fi",
+        "Phone": "0405902072",
+        "Email": "joona.tuomivaara@kotisivusi.fi",
+        "Address": "Tarkka-ampujankatu 14LH1",
+        "Business Sector": "Internet Service Provider, Trade, Services, Logistics, Tourism B2B, e-Services, Graphic design, Online shopping"
     },
     {
         "company": "Hotelli Lasaretti",
@@ -253,7 +408,12 @@
         "link": "https://oulucompanies.fi/en/hotelli-lasaretti/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://lasaretti.com/en/",
+        "Phone": "+358 20 757 4700",
+        "Email": "lasaretti@lasaretti.com",
+        "Address": "Katja Holm, Managing Director, katja.holm@lasaretti.com, tel. +358 44 407 7314\nKaisu Peuralahti, Hotel Manager, kaisu.peuralahti@lasaretti.com, tel. +358 40 841 5468",
+        "Business Sector": "Hotel and catering, Trade, Services, Logistics, Tourism Tourism services"
     },
     {
         "company": "Sweco Finland",
@@ -261,7 +421,12 @@
         "link": "https://oulucompanies.fi/en/sweco-finland/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.sweco.fi/en/",
+        "Phone": "+358 20 739 3000",
+        "Email": "info@sweco.fi",
+        "Address": "Ilmalanportti 2, 00240 Helsinki",
+        "Business Sector": "Bioenergy & biofuels, Building management systems, Circular economy, Clean water, Construction, Consulting services, Energy & Resource efficiency, Energy production & distribution, Food industry and food processing, Forest, paper and wood industry, Green buildings, Recycling, Renewables & smart grid, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Trade, Services, Logistics, Tourism, Waste Management, Waste-to-energy, Waste-to-value AR, Augmented reality, Industry, Interior design, IoT, Virtual reality, VR"
     },
     {
         "company": "SensorFleet Oy",
@@ -269,7 +434,12 @@
         "link": "https://oulucompanies.fi/en/sensorfleet-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.sensorfleet.com",
+        "Phone": "+358405030745",
+        "Email": "contact@sensorfleet.com",
+        "Address": "SensorFleet Oy\nTeknologiantie 18\n90590 Oulu\nFinland",
+        "Business Sector": "ICT, SW-products B2B, Industry, Monitoring, Security, SmartCity"
     },
     {
         "company": "Hohot Consulting Oy",
@@ -277,7 +447,12 @@
         "link": "https://oulucompanies.fi/en/hohot-consulting-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.hohot.fi/",
+        "Phone": "",
+        "Email": "info@hohot.fi",
+        "Address": "",
+        "Business Sector": "Advertising and communication services, Consultancy services for health industry, Consulting services, Creative Industries, Design services, Education, Health & Life Science, Health Services, Hotel and catering, ICT, Legal services, Media, Smarter and Cleaner Industry / Cleantech and Industry, Trade, Services, Logistics, Tourism, Travel Agency, Waste Management, Waste-to-energy B2B, B2C, Educational tourism, Industry, Tour operator and DMC"
     },
     {
         "company": "Gastro pub Toripolliisi",
@@ -285,7 +460,12 @@
         "link": "https://oulucompanies.fi/en/gastro-pub-toripolliisi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://toripolliisi.fi/",
+        "Phone": "08-333 013",
+        "Email": "info@toripolliisi.fi",
+        "Address": "Every day reservation phone is open 9 am-9 pm.",
+        "Business Sector": "Education, Hotel and catering, Trade, Services, Logistics, Tourism Tourism services"
     },
     {
         "company": "Codemate Oy",
@@ -293,7 +473,12 @@
         "link": "https://oulucompanies.fi/en/codemate-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.codemate.com/",
+        "Phone": "+358 20 755 1056",
+        "Email": "sales@codemate.com",
+        "Address": "Codemate Oy\nKasarmintie 21\n90130 Oulu",
+        "Business Sector": "ICT, SW-development, SW-products, System Integration B2B, e-Services, Fintech, Graphic design, IoT, Online shopping, Service Design"
     },
     {
         "company": "Remod Oy",
@@ -301,7 +486,12 @@
         "link": "https://oulucompanies.fi/en/remod-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://remod.fi/",
+        "Phone": "++358 50 449 1824",
+        "Email": "tuukka@remod.fi",
+        "Address": "Kaitov\u00e4yl\u00e4 14 A 1, 90570 Oulu",
+        "Business Sector": "Contract Manufacturing, HW-products, ICT, SW-development, SW-products, System Integration Connectivity, Monitoring, R&amp;D, Security, Service Design"
     },
     {
         "company": "Sah-Ko Oy",
@@ -309,7 +499,12 @@
         "link": "https://oulucompanies.fi/en/sah-ko-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.sah-ko.fi",
+        "Phone": "+358 50 330 0475",
+        "Email": "jukka.estama@sah-ko.fi",
+        "Address": "Lumijoentie 6\n90400 Oulu",
+        "Business Sector": "Construction, Maintenance and automation, Manufacturing industry, Metal production, Smart factory, Smarter and Cleaner Industry / Cleantech and Industry, Wholesale trade, Yleinen B2B, B2C, Industrial Design, Industry"
     },
     {
         "company": "Redamat Oy",
@@ -318,8 +513,13 @@
         "excluded_from_search": false,
         "already_applied": false,
         "application_date": "",
-        "applied": false,
-        "applied_date": "2023-08-28"
+        "applied": true,
+        "applied_date": "2023-08-28",
+        "Website": "http://www.redamat.fi",
+        "Phone": "+358400384861",
+        "Email": "tuomo.niemi@redamat.fi",
+        "Address": "Peipontie 12\n90450 Kempele\nFinland",
+        "Business Sector": "ICT B2B, B2C, Connectivity, eHealth, Equipment, HealthTech, Logistics, R&amp;D"
     },
     {
         "company": "Labkotec Oy",
@@ -327,7 +527,12 @@
         "link": "https://oulucompanies.fi/en/labkotec-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.labkotec.com",
+        "Phone": "+358 29 006 260",
+        "Email": "info@labkotec.fi",
+        "Address": "Labkotec Oy Oulu\nHaaransuontie 10\n90240 Oulu",
+        "Business Sector": "Maintenance and automation, Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability IoT, Monitoring"
     },
     {
         "company": "Ideasampo",
@@ -335,7 +540,12 @@
         "link": "https://oulucompanies.fi/en/ideasampo/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://ideasampo.fi/",
+        "Phone": "08-333333",
+        "Email": "info@ideasampo.fi",
+        "Address": "Ideasampo Oy\nTorikatu 4 B 13\n90100 Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries B2B, Graphic design, Service Design"
     },
     {
         "company": "Aurea LKV",
@@ -343,7 +553,12 @@
         "link": "https://oulucompanies.fi/en/aurea-lkv/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.aurealkv.fi/",
+        "Phone": "(08) 370 900",
+        "Email": "toimisto@aurealkv.fi",
+        "Address": "Kempeleentie 7 B\n2.kerros,\n90400 OULU",
+        "Business Sector": "Real estate, Trade, Services, Logistics, Tourism B2C, Business premises, Interior design, Office premises"
     },
     {
         "company": "Rokua Health & Spa Hotel",
@@ -351,7 +566,12 @@
         "link": "https://oulucompanies.fi/en/rokua-health-spa-hotel/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.rokua.com/",
+        "Phone": "020 7819 200",
+        "Email": "rokua@rokua.com",
+        "Address": "Kuntoraitti 2, 91670 Utaj\u00e4rvi",
+        "Business Sector": "Health Services, Hotel and catering, Other services, Trade, Services, Logistics, Tourism B2B, B2C, Health, Physical rehabilitation, Tourism services"
     },
     {
         "company": "Ailean Technologies Oy",
@@ -359,7 +579,12 @@
         "link": "https://oulucompanies.fi/en/ailean-technologies-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.ailean.fi",
+        "Phone": "+358408468355",
+        "Email": "kimmo.alaniska@ailean.fi",
+        "Address": "www.ailean.fi",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, ICT, SW-development AI, Artificial intelligence, AI, B2B, Diagnostics, e-Services, eHealth, Health, HealthTech, Imaging, R&amp;D, Social and health care systems"
     },
     {
         "company": "Taloustutkimus Oy Oulu Office",
@@ -367,7 +592,12 @@
         "link": "https://oulucompanies.fi/en/taloustutkimus-oy-oulu-office/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.taloustutkimus.fi",
+        "Phone": "+358 10 7585 441 (Oulu Office)",
+        "Email": "timo.myllymaki@taloustutkimus.fi",
+        "Address": "Taloustutkimus Oy\nLentokatu 2\n90460 Oulunsalo",
+        "Business Sector": "Consulting services, Trade, Services, Logistics, Tourism B2B, B2C, R&amp;D, Service Design"
     },
     {
         "company": "Club Teatria",
@@ -375,7 +605,12 @@
         "link": "https://oulucompanies.fi/en/club-teatria/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.teatria.com",
+        "Phone": "0504723985",
+        "Email": "info@teatria.com",
+        "Address": "Krouvintie 9\n90400 Oulu",
+        "Business Sector": "Creative Industries, Media, Performing arts, Sports and experience services, Visual arts B2B, B2C"
     },
     {
         "company": "Creoir Oy",
@@ -383,7 +618,12 @@
         "link": "https://oulucompanies.fi/en/creoir-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.creoir.com",
+        "Phone": "+358400357849",
+        "Email": "info@creoir.com",
+        "Address": "Elektroniikkatie 8\n90590 Oulu\nFinland",
+        "Business Sector": "HW-development, ICT, SW-development, System Integration, Testing and Certification Services AI, Artificial intelligence, AI, B2B, Connectivity, Equipment, Industrial Design, IoT, R&amp;D"
     },
     {
         "company": "Badrap.io",
@@ -391,7 +631,12 @@
         "link": "https://oulucompanies.fi/en/badrap-io/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://badrap.io/",
+        "Phone": "",
+        "Email": "contact@badrap.io",
+        "Address": "",
+        "Business Sector": "ICT, SW-products B2B, B2C, IoT, Monitoring, Security"
     },
     {
         "company": "Smilee.io",
@@ -400,8 +645,13 @@
         "excluded_from_search": false,
         "already_applied": false,
         "application_date": "",
-        "applied": false,
-        "applied_date": "2023-08-28"
+        "applied": true,
+        "applied_date": "2023-08-28",
+        "Website": "https://smilee.io/en",
+        "Phone": "",
+        "Email": "info@smilee.io",
+        "Address": "Kirkkokatu 17 A 12\n90100 Oulu\nFinland",
+        "Business Sector": "ICT, Service center, Staffing service, SW-products, Trade, Services, Logistics, Tourism AI, Artificial intelligence, AI, B2B, e-Services, eHealth, Online shopping"
     },
     {
         "company": "Balmuir Oy",
@@ -409,7 +659,12 @@
         "link": "https://oulucompanies.fi/en/__trashed/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.balmuir.com",
+        "Phone": "",
+        "Email": "info@balmuir.com",
+        "Address": "Balmuir Brand Store Oulu\nIsokatu 26\n90100 Oulu\nFinland",
+        "Business Sector": "Daily consumer goods trade, Trade, Services, Logistics, Tourism Fashion design, Interior design, Online shopping"
     },
     {
         "company": "Herman IT",
@@ -417,7 +672,12 @@
         "link": "https://oulucompanies.fi/en/herman-it/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.hermanit.fi/en/frontpage/",
+        "Phone": "+358 8 629 987",
+        "Email": "myynti@hermanit.fi",
+        "Address": "HEAD OFFICE\nL\u00f6nnrotinkatu 12 A 1. krs\n87100 Kajaani\nFinland\n+358 8 629 987\n\nmyynti@hermanit.fi\n\nfirstname.lastname@hermanit.fi\n\nOULU OFFICE\nElektroniikkatie 3 (Technopolis Linnanmaa)\n90590 Oulu\n\nHELSINKI OFFICE\nLaajalahdentie 23 (IBM-toimitalo)\n00330 Helsinki",
+        "Business Sector": "HW-products, ICT, SW-development, System Integration AI, Artificial intelligence, AI, B2B, Connectivity, eHealth, IoT, Monitoring"
     },
     {
         "company": "Genobiomics",
@@ -425,7 +685,12 @@
         "link": "https://oulucompanies.fi/en/genobiomics/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.genobiomics.com",
+        "Phone": "+358406303377",
+        "Email": "info@genobiomics.com",
+        "Address": "info@genobiomics.com\n+358 504670658\n+358 406303377",
+        "Business Sector": "Health & Life Science, Other AI, Artificial intelligence&#044; AI, B2C, e-Services"
     },
     {
         "company": "Nortastic Ltd",
@@ -433,7 +698,12 @@
         "link": "https://oulucompanies.fi/en/nortastic-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.nortastic.com",
+        "Phone": "+358505319191",
+        "Email": "teija.ruokamo@nortastic.com",
+        "Address": "Please contact teija.ruokamo@nortastic.com",
+        "Business Sector": "Advertising and communication services, Agriculture, Consultancy services for health industry, Consulting services, Creative Industries, Daily consumer goods trade, Design services, Development of BusinessModel, Food industry and food processing, Media, Other services, Trade, Services, Logistics, Tourism, Visual arts, Wholesale trade Audiovisual production, B2B, Educational tourism, Graphic design, Service Design, Tourism services"
     },
     {
         "company": "Autokorjaamo Veps\u00e4l\u00e4inen",
@@ -441,7 +711,12 @@
         "link": "https://oulucompanies.fi/en/autokorjaamo-vepsalainen/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.autokorjaamovepsalainen.net/",
+        "Phone": "0415072171",
+        "Email": "info@autokorjaamovepsalainen.net",
+        "Address": "Autokorjaamo H & J Veps\u00e4l\u00e4inen\nRatamotie 64\n90800 Oulu\n\n041-5072171",
+        "Business Sector": "Maintenance services, Other services, Trade, Services, Logistics, Tourism B2B, B2C"
     },
     {
         "company": "OMP-Konepaja Oy",
@@ -449,7 +724,12 @@
         "link": "https://oulucompanies.fi/en/omp-konepaja-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.ompgroup.fi",
+        "Phone": "+358207280132",
+        "Email": "vesa.korkiakoski@ompgroup.fi",
+        "Address": "OMP-Konepaja Oy\nLumijoentie 2\n90400 \u00a0 OULU\nTel. +358 20 7280 130",
+        "Business Sector": "Bioenergy & biofuels, CHP & DHC, Clean water, Energy production & distribution, Machinery and equipment manufacture, Maintenance and automation, Manufacturing industry, Metal production, Mining, Other manufacture, Smarter and Cleaner Industry / Cleantech and Industry, Solar Energy, Waste-to-energy, Water technology, Wind energy B2B, e-Services, Equipment"
     },
     {
         "company": "Nordic Green Lifestyle Oy",
@@ -457,7 +737,12 @@
         "link": "https://oulucompanies.fi/en/nordic-green-lifestyle-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.pikkupanda.fi/",
+        "Phone": "+358405083388",
+        "Email": "dan.wang@fcie.fi",
+        "Address": "Eetu P\u00e4lsi\n+358503659789\n\nDan Wang\n+358405083388\nKirkkokatu 22, 90100 Oulu\nFinland",
+        "Business Sector": "Hotel and catering, Social Services, Speciality retailing, Trade, Services, Logistics, Tourism, Wholesale trade Leisure Activity Services, Logistics, Online shopping, Sanitation, Tourism services"
     },
     {
         "company": "Finland Center of International Exchange Oy",
@@ -465,7 +750,12 @@
         "link": "https://oulucompanies.fi/en/finland-center-of-international-exchange-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.fcie.fi",
+        "Phone": "+358405083388",
+        "Email": "dan.wang@fcie.fi",
+        "Address": "Dan Wang\nSiilotie 21, 90520, Oulu, Finland\nPhone: +358 405083388\nEmail: dan.wang@fcie.fi",
+        "Business Sector": "Advertising and communication services, Consulting services, Creative Industries, Development of BusinessModel, Development of CoreSystems, Education, Health & Life Science, Healthcare and Wellness services, ICT, Internet Service Provider, Legal services, Service center, Social Services, Trade, Services, Logistics, Tourism, Travel Agency e-Services, Educational tourism, Industry, IoT, Renting, Service Design, SmartCity, Social and health care systems, Tourism services"
     },
     {
         "company": "Meka Pro Oy",
@@ -473,7 +763,12 @@
         "link": "https://oulucompanies.fi/en/meka-pro-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.meka.eu/en",
+        "Phone": "0207450800",
+        "Email": "meka@meka.eu",
+        "Address": "Meka Pro Oy\nKonetie 25\n90620 Oulu",
+        "Business Sector": "Electronics industry, Manufacturing industry, Other manufacture, Smarter and Cleaner Industry / Cleantech and Industry"
     },
     {
         "company": "Cajo Technologies Oy",
@@ -481,7 +776,12 @@
         "link": "https://oulucompanies.fi/en/cajo-technologies-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://cajotechnologies.com/",
+        "Phone": "+358 10 583 5020",
+        "Email": "info@cajotechnologies.com",
+        "Address": "Head office, Finland\nRasivainiontie 8\nFI-90440 Kempele",
+        "Business Sector": "Manufacturing industry, Smarter and Cleaner Industry / Cleantech and Industry B2B, Industry"
     },
     {
         "company": "Boogie Software Oy",
@@ -489,7 +789,12 @@
         "link": "https://oulucompanies.fi/en/boogie-software-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://boogiesoftware.com",
+        "Phone": "+358 40 501 2980",
+        "Email": "sales@boogiesoftware.com",
+        "Address": "Boogie Software Oy\nKasarmintie 15\n90130 Oulu, Finland",
+        "Business Sector": "ICT, SW-development AI, Artificial intelligence, AI, B2C, Connectivity, Fintech, R&amp;D, Security"
     },
     {
         "company": "Toimistotukku Juntunen Ay",
@@ -497,7 +802,12 @@
         "link": "https://oulucompanies.fi/en/toimistotukku-juntunen-ay/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://kauppa.ttjuntunen.fi/",
+        "Phone": "0505959871",
+        "Email": "teijo.juntunen@ttjuntunen.fi",
+        "Address": "Toimistotukku Juntunen Ay\nMerimiehentie 14\n90520 Oulu\nPUH: 050 595 9871\nTeijo Juntunen\nteijo.juntunen@ttjuntunen.fi",
+        "Business Sector": "Trade, Services, Logistics, Tourism, Wholesale trade B2B, B2C, Equipment, Logistics, Office premises, Online shopping"
     },
     {
         "company": "Polar Grow Ltd.",
@@ -505,7 +815,12 @@
         "link": "https://oulucompanies.fi/en/polar-grow-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.polargrow.com",
+        "Phone": "",
+        "Email": "info@polargrow.com",
+        "Address": "Rantapellontie 1A1\n90520 Oulu\nFinland",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Other services, Performing arts, Trade, Services, Logistics, Tourism, Visual arts Audiovisual production, Equipment, Imaging, Music services"
     },
     {
         "company": "EHP Environment",
@@ -513,7 +828,12 @@
         "link": "https://oulucompanies.fi/en/ehp-environment/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.ehpenvironment.com",
+        "Phone": "+358405346266",
+        "Email": "sales@ehpenvironment.com",
+        "Address": "Tuotekuja 9, 90410, Oulu, Finland",
+        "Business Sector": "Automation technology, Clean water, Cleanweb & IoT, ICT, Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Sustainable city, System Integration, Water technology B2B, IoT, Laboratory solutions, Monitoring, R&amp;D, SmartCity"
     },
     {
         "company": "Kiertokaari Ltd.",
@@ -521,7 +841,12 @@
         "link": "https://oulucompanies.fi/en/kiertokaari-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://kiertokaari.fi/",
+        "Phone": "+358 8 5584 0010",
+        "Email": "jatehuolto@kiertokaari.fi",
+        "Address": "Ruskonniityntie 10, 90620 Oulu",
+        "Business Sector": "Bioenergy & biofuels, Circular economy, Recycling, Smarter and Cleaner Industry / Cleantech and Industry, Waste Management, Waste-to-energy, Waste-to-value"
     },
     {
         "company": "Haltian Oy",
@@ -529,7 +854,12 @@
         "link": "https://oulucompanies.fi/en/haltian-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://haltian.com/",
+        "Phone": "+358 10 322 3400",
+        "Email": "info@haltian.com",
+        "Address": "Headquarters: Yrttipellontie 1D 90230 Oulu, Finland\nFinland capital area:  Haltian Oy, Mannerheiminaukio 1 00100 Helsinki, Finland",
+        "Business Sector": "Air quality, Development of CoreSystems, HW-development, HW-products, ICT, Maintenance and automation, R&D-site, Smart factory, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products, System Integration 5G, AI, Artificial intelligence&#044; AI, B2B, Chipset, Connectivity, HealthTech, Imaging, Indoor location, Industrial Design, IoT, R&amp;D, Sanitation, Service Design, SmartCity, Virtual reality, VR"
     },
     {
         "company": "Deep Forest Ltd",
@@ -537,7 +867,12 @@
         "link": "https://oulucompanies.fi/en/deep-forest-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://deepforest.fi/en",
+        "Phone": "+358 50 430 4556",
+        "Email": "lauri.luhtaniemi@deepforest.fi",
+        "Address": "Deep Forest Ltd.\nTuirantie 9 B 51\n90500 Oulu\nFinland",
+        "Business Sector": "Advertising and communication services, Creative Industries, Lifestyle design, crafts, Media, Other services, Speciality retailing, Trade, Services, Logistics, Tourism, Visual arts, Wholesale trade Audiovisual production, Graphic design, Online shopping"
     },
     {
         "company": "Colleqium Oy",
@@ -545,7 +880,12 @@
         "link": "https://oulucompanies.fi/en/colleqium-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.colleqium.fi",
+        "Phone": "Jouko Saarim\u00e4ki +358404804026 / Janne Leinonen +358 44 343 1098",
+        "Email": "jouko.saarimaki@colleqium.fi",
+        "Address": "Uusikatu 35, 90100 Oulu",
+        "Business Sector": "Consulting services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Luova Ty\u00f6maa Oy",
@@ -553,7 +893,12 @@
         "link": "https://oulucompanies.fi/en/luova-tyomaa-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://tyomaa.com",
+        "Phone": "010 400 6540",
+        "Email": "oulu@tyomaa.com",
+        "Address": "Kasarmintie 13 D 1\n90130 Oulu\n\nKorkeavuorenkatu 25 A 3\n00130 Helsinki",
+        "Business Sector": "Advertising and communication services, Creative Industries Animation, AR, Audiovisual production, Augmented reality, B2B, B2C, Graphic design, Online shopping, Service Design, Virtual reality, VR"
     },
     {
         "company": "Green Company Effect",
@@ -561,7 +906,12 @@
         "link": "https://oulucompanies.fi/en/green-company-effect/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://greencompanyeffect.com/home",
+        "Phone": "+358400472975",
+        "Email": "sanna@greencompanyeffect.com",
+        "Address": "Sanna Rousu, sanna@greencompanyeffect.com\nKeijo S\u00e4rkij\u00e4rvi, keijo@greencompanyeffect.com",
+        "Business Sector": "Circular economy, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Sustainable city, Waste-to-energy, Waste-to-value Animation, Audiovisual production, B2B, Graphic design, Industry, SmartCity"
     },
     {
         "company": "ProWellness Health Solutions Ltd",
@@ -569,7 +919,12 @@
         "link": "https://oulucompanies.fi/en/prowellness-health-solutions-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.prowellness.com",
+        "Phone": "+358-207-959940 (switch), +358-40-5725249",
+        "Email": "mika.sipila@prowellness.com",
+        "Address": "Aapistie 1 D\n90220 Oulu",
+        "Business Sector": "Consultancy services for health industry, Development of CoreSystems, Health & Life Science, Health technology and eHealth, ICT, SW-development, SW-products, System Integration AI, Artificial intelligence, AI, B2B, B2C, e-Services, eHealth, HealthTech, R&amp;D"
     },
     {
         "company": "Lehto Group Plc",
@@ -577,7 +932,12 @@
         "link": "https://oulucompanies.fi/en/lehto-group-plc/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://lehto.fi/",
+        "Phone": "",
+        "Email": "",
+        "Address": "Voimatie 6 B\n90440 Kempele",
+        "Business Sector": "Construction, Manufacturing industry, Real estate /estate management, Smarter and Cleaner Industry / Cleantech and Industry"
     },
     {
         "company": "Airnest Productions Ltd.",
@@ -585,7 +945,12 @@
         "link": "https://oulucompanies.fi/en/airnest-productions-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://airguitarworldchampionships.com/en/home/",
+        "Phone": "+358447001057",
+        "Email": "hanna@airnestprod.com",
+        "Address": "Kulttuuritalo Valve, P.O. Box 42, 90015 City of Oulu.",
+        "Business Sector": "Creative Industries, Performing arts"
     },
     {
         "company": "BLF Attorneys",
@@ -593,7 +958,12 @@
         "link": "https://oulucompanies.fi/en/blf-attorneys/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.law.fi/?lang=en",
+        "Phone": "+358406694444",
+        "Email": "teuvo.viljamaa@law.fi",
+        "Address": "Teuvo Viljamaa\nSenior Counsel, LL.M, M.Sc.Tech.\nPakkahuoneenkatu 15 A 10\nFI-90100 Oulu\nTel +358 40 669 4444\nEmail teuvo.viljamaa@law.fi",
+        "Business Sector": "Consulting services, Legal services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Cerenion Oy",
@@ -601,7 +971,12 @@
         "link": "https://oulucompanies.fi/en/cerenion-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.cerenion.com",
+        "Phone": "+358 50 447 4909",
+        "Email": "info@cerenion.com",
+        "Address": "Cerenion Oy\nElektroniikkatie 3\n90590 Oulu\nFINLAND \n\nCerenion Oy\nTeknobulevardi 3-5\n01530 Vantaa\nFINLAND",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, Healthcare and Wellness services, ICT, Life Science, pharmaceutical, SW-products AI, Artificial intelligence&#044; AI, B2B, Health, HealthTech, Monitoring, Social and health care systems"
     },
     {
         "company": "Fuusor Oy",
@@ -609,7 +984,12 @@
         "link": "https://oulucompanies.fi/en/fuusor-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.fuusor.fi",
+        "Phone": "050 472 4200",
+        "Email": "info@fuusor.fi",
+        "Address": "Aittatie 3 B, 90240 Oulu",
+        "Business Sector": "Consulting services, ICT B2B, e-Services"
     },
     {
         "company": "Pinja",
@@ -617,7 +997,12 @@
         "link": "https://oulucompanies.fi/en/pinja/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.protacon.com",
+        "Phone": "0505345311",
+        "Email": "tuomas.fabritius@protacon.com",
+        "Address": "Visiting address:\nKaarnatie 38,\n90530 Oulu",
+        "Business Sector": "Automation technology, Health & Life Science, Health technology and eHealth, ICT, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products, System Integration B2B, e-Services, eHealth, Graphic design, Health, HealthTech, Industrial Design, Industry, IoT, Logistics, Monitoring, Online shopping, R&amp;D, Service Design, Social and health care systems"
     },
     {
         "company": "Nikama Design",
@@ -625,7 +1010,12 @@
         "link": "https://oulucompanies.fi/en/nikama-design/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.nikamadesign.fi",
+        "Phone": "+358 40 558 3882",
+        "Email": "info@nikamadesign.fi",
+        "Address": "Nikama Design Ltd\nV\u00e4lirinne 10 (about 10 km from Rotuaari to Kuusamo)\n90940 J\u00e4\u00e4li",
+        "Business Sector": "Creative Industries, Design services, Performing arts, Visual arts B2B, B2C, Fashion design, Interior design"
     },
     {
         "company": "Noptel Oy",
@@ -633,7 +1023,12 @@
         "link": "https://oulucompanies.fi/en/noptel-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.noptel.fi",
+        "Phone": "+358 40 1814351",
+        "Email": "info@noptel.fi",
+        "Address": "Sales & Marketing Manager\nMr. Tuomo Karjalainen\nEmail: tuomo.karjalainen@noptel.fi",
+        "Business Sector": "Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry Fotonics, Monitoring, Security"
     },
     {
         "company": "Klaffi productions",
@@ -641,7 +1036,12 @@
         "link": "https://oulucompanies.fi/en/klaffi-productions/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.klaffi.com",
+        "Phone": "+358405503697",
+        "Email": "klaffi@klaffi.com",
+        "Address": "Producer Kimmo Paananen\ntel. +358 40 550 3697\nkimmo@klaffi.com\n\nKlaffi production\nKasarmintie 15\n90130 Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media Animation, Audiovisual production, B2B, B2C, Music services"
     },
     {
         "company": "Resistance Games Oy",
@@ -649,7 +1049,12 @@
         "link": "https://oulucompanies.fi/en/resistance-games-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.resistancegames.com",
+        "Phone": "",
+        "Email": "contact@resistancegames.com",
+        "Address": "anna.salomaa@resistancegames.com",
+        "Business Sector": "Creative Industries, Gaming industry"
     },
     {
         "company": "Proventia",
@@ -657,7 +1062,12 @@
         "link": "https://oulucompanies.fi/en/proventia/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.proventia.com/",
+        "Phone": "+358 20 781 0200",
+        "Email": "info@proventia.com",
+        "Address": "Proventia Group Oyj/ Proventia Oy\nTietotie 1\n90460 Oulunsalo, Finland",
+        "Business Sector": "Air quality, Manufacturing industry, Measurement technology, Metal production, Smarter and Cleaner Industry / Cleantech and Industry B2B, Equipment, R&amp;D"
     },
     {
         "company": "Selkosilla Oy",
@@ -665,7 +1075,12 @@
         "link": "https://oulucompanies.fi/en/selkosilla-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "",
+        "Phone": "+358407353678",
+        "Email": "toni.soini@selkosilla.com",
+        "Address": "Selkosilla Oy (c/o Toni Soini)\nTokantie 8\n90800 Oulu\nFinland",
+        "Business Sector": "Cleanweb & IoT, Consultancy services for health industry, Development of BusinessModel, Development of CoreSystems, Health & Life Science, HW-development, HW-products, ICT, Mobility, R&D-site, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, System Integration B2B, B2C, Chipset, Connectivity, IoT, R&amp;D, Security, SmartCity"
     },
     {
         "company": "Nordic Tank Oy",
@@ -673,7 +1088,12 @@
         "link": "https://oulucompanies.fi/en/nordic-tank-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.nordictank.com/",
+        "Phone": "+358 50 400 9805",
+        "Email": "toimisto@nordictank.com",
+        "Address": "Nordic Tank Oy\nOritkarintie 1 B\n90400 Oulu",
+        "Business Sector": "Manufacturing industry, Metal production, Smarter and Cleaner Industry / Cleantech and Industry Industry, Logistics"
     },
     {
         "company": "Attorney-at-Law Advocate Juha Ryyn\u00e4nen Ltd",
@@ -681,7 +1101,12 @@
         "link": "https://oulucompanies.fi/en/attorney-at-law-advocate-juha-ryynanen-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.juharyynanen.fi",
+        "Phone": "+358400230230",
+        "Email": "asianajaja@juharyynanen.fi",
+        "Address": "LLD Juha Ryyn\u00e4nen.",
+        "Business Sector": "Yleinen Business premises, Industry"
     },
     {
         "company": "IndoorAtlas Oy",
@@ -689,7 +1114,12 @@
         "link": "https://oulucompanies.fi/en/indooratlas-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.indooratlas.com",
+        "Phone": "",
+        "Email": "support@indooratlas.com",
+        "Address": "Elektroniikkatie 8\n90590 Oulu",
+        "Business Sector": "ICT, Mobility, Real estate /estate management, Smart factory, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products AI, AR, Artificial intelligence, AI, Augmented reality, B2C, Business premises, eHealth, HealthTech, Indoor location, IoT, Office premises, Robotics, SmartCity, Social and health care systems, Tourism services"
     },
     {
         "company": "Advertising Agency Speciaali",
@@ -697,7 +1127,12 @@
         "link": "https://oulucompanies.fi/en/advertising-agency-speciaali/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.speciaali.fi/",
+        "Phone": "+358442402287",
+        "Email": "contact@speciaali.fi",
+        "Address": "Isokatu 25, 09100 Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Design services, Media, Visual arts Animation, Audiovisual production, B2B, B2C, Graphic design"
     },
     {
         "company": "Enhancell Oy",
@@ -705,7 +1140,12 @@
         "link": "https://oulucompanies.fi/en/enhancell-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://enhancell.com",
+        "Phone": "",
+        "Email": "info@enhancell.com",
+        "Address": "Hallituskatu 13-17 E 52\n90100 OULU\nFINLAND",
+        "Business Sector": "ICT, SW-development, SW-products, Testing and Certification Services 5G, B2B, Diagnostics, IoT, Monitoring"
     },
     {
         "company": "Priimaty\u00f6 Oy",
@@ -713,7 +1153,12 @@
         "link": "https://oulucompanies.fi/en/priimatyo-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.priimatyo.fi/",
+        "Phone": "040 7415884",
+        "Email": "posti@priimatyo.fi",
+        "Address": "Karhunkedontie 6\n90420 Oulu",
+        "Business Sector": "Maintenance services, Trade, Services, Logistics, Tourism B2C"
     },
     {
         "company": "Hammasl\u00e4\u00e4k\u00e4riasema Kastellin Kruunu Dental Practice",
@@ -721,7 +1166,12 @@
         "link": "https://oulucompanies.fi/en/hammaslaakariasema-kastellin-kruunu-dental-practice/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://kastellinkruunu.fi/",
+        "Phone": "0400 572 259",
+        "Email": "asiakaspalvelu@kastellinkruunu.fi",
+        "Address": "Kajaanintie 79\n90230 Oulu",
+        "Business Sector": "Health & Life Science, Healthcare and Wellness services Health, Treatment"
     },
     {
         "company": "Exiops Ltd.",
@@ -729,7 +1179,12 @@
         "link": "https://oulucompanies.fi/en/exiops-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://skiiot.com/",
+        "Phone": "+358504802414",
+        "Email": "info@skiiot.com",
+        "Address": "Marko H\u00f6yn\u00e4l\u00e4\nCEO\ne-mail: marko.hoynala@exiops.com\n(tel.) +358 50 4802414\n\nAsemakatu 37\n90100 Oulu, Finland",
+        "Business Sector": "Creative Industries, Sports and experience services B2B, B2C, IoT, Leisure Activity Services, Monitoring"
     },
     {
         "company": "Wiciot Ltd.",
@@ -737,7 +1192,12 @@
         "link": "https://oulucompanies.fi/en/wiciot-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.cmicro.io/",
+        "Phone": "+358504802414",
+        "Email": "marko.hoynala@wiciot.com",
+        "Address": "Marko H\u00f6yn\u00e4l\u00e4\nCEO\ne-mail: marko.hoynala@wiciot.com\n(tel.) +358 50 4802414\n\nAsemakatu 37\n90100 Oulu, Finland",
+        "Business Sector": "Electronics industry, Energy & Resource efficiency, Food industry and food processing, Smarter and Cleaner Industry / Cleantech and Industry B2B, B2C, IoT, Monitoring"
     },
     {
         "company": "Funeral Home Kuusiniemi",
@@ -745,7 +1205,12 @@
         "link": "https://oulucompanies.fi/en/funeral-home-kuusiniemi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kuusiniemi.fi/",
+        "Phone": "010 2480890",
+        "Email": "petri.kuusiniemi@kuusiniemi.fi",
+        "Address": "Kirkkokatu 7 M 6\n90100 Oulu",
+        "Business Sector": "Other services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "iProtoXi Oy",
@@ -753,7 +1218,12 @@
         "link": "https://oulucompanies.fi/en/iprotoxi-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.iprotoxi.fi/",
+        "Phone": "+358 20 1555 533",
+        "Email": "info@iprotoxi.fi",
+        "Address": "iProtoXi Oy\nTeknologiantie 18 A\n90590 Oulu, Finland",
+        "Business Sector": "Air quality, Automation technology, Construction, Electronics industry, Energy & Resource efficiency, Energy production & distribution, Health & Life Science, Health technology and eHealth, HW-development, HW-products, ICT, Maintenance and automation, Measurement technology, R&D-site, Smart factory, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, SW-development, SW-products, Waste Management 5G, AI, Artificial intelligence&#044; AI, B2B, Chipset, Connectivity, eHealth, Equipment, HealthTech, Indoor location, Industry, IoT, Monitoring, R&amp;D, Security, Service Design, SmartCity"
     },
     {
         "company": "Kranu Oy",
@@ -761,7 +1231,12 @@
         "link": "https://oulucompanies.fi/en/kranu-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kranu.fi/",
+        "Phone": "045 1241213",
+        "Email": "info@kranu.fi",
+        "Address": "Kranu Oy\nIsokatu 56\n90100 Oulu",
+        "Business Sector": "Consulting services, Development of BusinessModel, ICT, Social Services, Trade, Services, Logistics, Tourism Connectivity, e-Services, Online shopping"
     },
     {
         "company": "Kipuwex Ltd.",
@@ -769,7 +1244,12 @@
         "link": "https://oulucompanies.fi/en/kipuwex-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.kipuwex.com/",
+        "Phone": "+358504802414",
+        "Email": "info@kipuwex.com",
+        "Address": "Marko H\u00f6yn\u00e4l\u00e4\nCEO\nKipuwex Oy\nAsemakatu 37B\n90100 Oulu, Finland\nTel: +358504802414\nwww.kipuwex.com\nhttps://www.linkedin.com/in/hoynala",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, Healthcare and Wellness services AI, Artificial intelligence, AI, B2B, B2C, eHealth, Health, HealthTech, IoT, Monitoring, Social and health care systems"
     },
     {
         "company": "Procomp Solutions Oy",
@@ -777,7 +1257,12 @@
         "link": "https://oulucompanies.fi/en/procomp-solutions-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.procompglobal.com/",
+        "Phone": "+44 (0)7983 627 427",
+        "Email": "mark.russell-smith@procompglobal.com",
+        "Address": "International Operations\nDirector of International Operations\nMark Russell-Smith\nPhone: +44 (0)7983 627 427\nmark.russell-smith@procompglobal.com",
+        "Business Sector": "ICT, SW-products AI, Artificial intelligence, AI, HealthTech, Social and health care systems"
     },
     {
         "company": "Liana Technologies",
@@ -785,7 +1270,12 @@
         "link": "https://oulucompanies.fi/en/liana-technologies/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.lianatech.com",
+        "Phone": "+358 10 387 7050",
+        "Email": "hello@lianatech.com",
+        "Address": "Kansankatu 53\n90100 Oulu",
+        "Business Sector": "ICT, SW-development, SW-products AI, B2B, e-Services"
     },
     {
         "company": "Valmet Oyj",
@@ -793,7 +1283,12 @@
         "link": "https://oulucompanies.fi/en/valmet-oyj/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.valmet.com/",
+        "Phone": "+358 (0)10 672 0000",
+        "Email": "",
+        "Address": "Valmet\u2019s shares are listed on the Nasdaq Helsinki and the head office is in located Espoo, Finland at Keilasatama 5, 02150 ESPOO with a switchboard phone number +358 10 672 0000",
+        "Business Sector": "Automation technology, Bioenergy & biofuels, Energy & Resource efficiency, Energy production & distribution, Forest, paper and wood industry, Machinery and equipment manufacture, Maintenance and automation, Manufacturing industry, Marine & shipping, Measurement technology, Smart factory, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Waste-to-energy AR, Augmented reality, B2B, Fintech, Industrial Design, Industry, IoT, Virtual reality, VR"
     },
     {
         "company": "Psycon Oy",
@@ -801,7 +1296,12 @@
         "link": "https://oulucompanies.fi/en/psycon-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.psycon.fi/",
+        "Phone": "+358 20 710 1204",
+        "Email": "oulu@psycon.com",
+        "Address": "Hallituskatu 29 A, 5 krs\n90100 Oulu",
+        "Business Sector": "Consulting services, Staffing service, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "WSP Finland Oy",
@@ -809,7 +1309,12 @@
         "link": "https://oulucompanies.fi/en/wsp-finland-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.wsp.com/fi-FI",
+        "Phone": "+358 20 786 411",
+        "Email": "info@wsp.com",
+        "Address": "Kiviharjunlenkki 1 D\nFI-90220 Oulu\nFinland \n\n+358 20 786 411",
+        "Business Sector": "Air quality, Architecture, Construction, Infrastructure, Mining, Sustainable city, Yleinen Industry, Laboratory solutions, Landscape design, SmartCity"
     },
     {
         "company": "Neurosonic Finland Ltd",
@@ -817,7 +1322,12 @@
         "link": "https://oulucompanies.fi/en/neurosonic-finland-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://neurosonictechnologies.com/#home",
+        "Phone": "+358 10 201 1610",
+        "Email": "info@neurosonic.fi",
+        "Address": "Oy Neurosonic Finland Ltd\nSaaristonkatu 1\n90100 Oulu",
+        "Business Sector": "Health & Life Science, Health technology and eHealth B2B, B2C, Health, HealthTech, Online shopping, Physical rehabilitation, Renting, Social and health care systems, Treatment"
     },
     {
         "company": "LudoCraft",
@@ -825,7 +1335,12 @@
         "link": "https://oulucompanies.fi/en/ludocraft/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.ludocraft.com/",
+        "Phone": "+358407157495",
+        "Email": "tony.manninen@ludocraft.com",
+        "Address": "LudoCraft Oy\nKasarmintie 23,\n90130 Oulu,\nFinland",
+        "Business Sector": "Creative Industries, Design services, Gaming industry, ICT, Media, SW-development, SW-products, Visual arts AI, AR, Artificial intelligence, AI, Audiovisual production, Augmented reality, B2B, Graphic design, IoT, R&amp;D, Service Design, Virtual reality, VR"
     },
     {
         "company": "Samantta Hotel & Restaurant",
@@ -833,7 +1348,12 @@
         "link": "https://oulucompanies.fi/en/samantta-hotel-restaurant/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.samantta.fi",
+        "Phone": "+358 8 343 424",
+        "Email": "hotel@samantta.fi",
+        "Address": "V\u00e4litie 1, 90830 Haukipudas FINLAND",
+        "Business Sector": "Hotel and catering, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Berggren",
@@ -841,7 +1361,12 @@
         "link": "https://oulucompanies.fi/en/berggren/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.berggren.eu/en/",
+        "Phone": "+358 10 227 2000",
+        "Email": "email@berggren.fi",
+        "Address": "Berggren Oy, Oulu\nIsokatu 32\n90100 OULU",
+        "Business Sector": "Consulting services, Legal services AI, B2B, R&amp;D"
     },
     {
         "company": "Brandstein / Ilmestys Oy",
@@ -849,7 +1374,12 @@
         "link": "https://oulucompanies.fi/en/brandstein-ilmestys-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://brandstein.fi/",
+        "Phone": "+358 40 0570336",
+        "Email": "info@brandstein.fi",
+        "Address": "Brandstein\nTorikatu 7, 90100 Oulu, Finland",
+        "Business Sector": "Advertising and communication services, Consulting services, Creative Industries, Design services, Media, Trade, Services, Logistics, Tourism Animation, B2B, Graphic design, Interior design, Service Design"
     },
     {
         "company": "Kotimaailma Apartments Oulu",
@@ -857,7 +1387,12 @@
         "link": "https://oulucompanies.fi/en/kotimaailma-apartments-oulu/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.kotimaailma.com",
+        "Phone": "+35850 3776983",
+        "Email": "oulu@kotimaailma.com",
+        "Address": "Vanhantullinkatu 3B, 90100 Oulu\noulu@kotimaailma.com\n+35850 3776983",
+        "Business Sector": "Hotel and catering, Trade, Services, Logistics, Tourism B2B, B2C, Renting"
     },
     {
         "company": "Invenco Oy",
@@ -865,7 +1400,12 @@
         "link": "https://oulucompanies.fi/en/invenco-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.invenco.fi/",
+        "Phone": "010 229 0830",
+        "Email": "viestinta@invenco.fi",
+        "Address": "VANTAA \n\u00c4yritie 18\n01510 Vantaa\np. 010 229 0830\n\nTAMPERE\nRautatienkatu 21 C 6. krs\n33100 Tampere\np. 010 505 4505\nOULU\nUusikatu 53\n90120 Oulu\np. 040 546 0465\n\nKUOPIO\nKauppakeskus Minna\nHaapaniemenkatu 18, 3. krs\n70110 Kuopio\np. 050 350 4088",
+        "Business Sector": "Development of CoreSystems, ICT, SW-development, SW-products, System Integration AI, Artificial intelligence, AI, B2B, B2C, Connectivity, e-Services, eHealth, IoT, Monitoring, SmartCity, Social and health care systems"
     },
     {
         "company": "Arctic Ideas Consulting",
@@ -873,7 +1413,12 @@
         "link": "https://oulucompanies.fi/en/arctic-ideas-consulting/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.arcticideas.fi/in-english/",
+        "Phone": "0440620327",
+        "Email": "maija-Leena.rissanen@arcticideas.fi",
+        "Address": "Maija-Leena Rissanen\nTel: 044 0620327\nmaija-leena.rissanen@arcticideas.fi",
+        "Business Sector": "Consulting services, Development of BusinessModel, ICT, Other services, Trade, Services, Logistics, Tourism B2B, Service Design"
     },
     {
         "company": "Ferenda Attorneys at Law Ltd",
@@ -881,7 +1426,12 @@
         "link": "https://oulucompanies.fi/en/ferenda-attorneys-at-law-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.ferenda.fi/",
+        "Phone": "+358 (0)20 778 9580",
+        "Email": "oulu@ferenda.fi",
+        "Address": "Hallituskatu 11 A 7, 90100 Oulu",
+        "Business Sector": "Legal services B2B"
     },
     {
         "company": "Saha Prod Oy",
@@ -889,7 +1439,12 @@
         "link": "https://oulucompanies.fi/en/saha-prod-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.sahaprod.com",
+        "Phone": "0504144942",
+        "Email": "mikko@sahaprod.com",
+        "Address": "Saha Prod Oy // Office\nPuistokatu 12\n90120 Oulu\n\nSaha Prod Oy // HKI\nTorivoudintie 3\n00640 Helsinki",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Performing arts, Visual arts Animation, Audiovisual production, Leisure Activity Services, Music services, Renting, Virtual reality, VR"
     },
     {
         "company": "Pedihealth Oy",
@@ -897,7 +1452,12 @@
         "link": "https://oulucompanies.fi/en/pedihealth-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.pedihealth.fi",
+        "Phone": "+358 207 401 330",
+        "Email": "info@pedihealth.fi",
+        "Address": "Managing Director, Mari Nousiainen\nmari.nousiainen@pedihealth.fi",
+        "Business Sector": "Health & Life Science, Maintenance services, Other, Trade, Services, Logistics, Tourism, Wholesale trade Health, Online shopping, Treatment"
     },
     {
         "company": "Rautatieto Oy",
@@ -905,7 +1465,12 @@
         "link": "https://oulucompanies.fi/en/rautatieto-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.rautatieto.fi/en/",
+        "Phone": "+358 50 3869 382",
+        "Email": "info@rautatieto.fi",
+        "Address": "Ratamestarintie 2 B\nFI-90150 Oulu\nFINLAND",
+        "Business Sector": "Consulting services, Infrastructure, Maintenance and automation, Maintenance services, Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry, Trade, Services, Logistics, Tourism B2B, Diagnostics, Monitoring"
     },
     {
         "company": "Pro Juridica Attorneys-at-Law",
@@ -913,7 +1478,12 @@
         "link": "https://oulucompanies.fi/en/pro-juridica-attorneys-at-law/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://projuridica.fi",
+        "Phone": "+358 20 7551 480",
+        "Email": "oulu@projuridica.fi",
+        "Address": "Hallituskatu 13-17 D 39, \nFI-90100 Oulu",
+        "Business Sector": "Legal services"
     },
     {
         "company": "elfGROUP Cyber Security Services Ltd.",
@@ -921,7 +1491,12 @@
         "link": "https://oulucompanies.fi/en/elfgroup-cyber-security-services-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.elfgroup.fi/en",
+        "Phone": "+358 20 735 0480",
+        "Email": "sales@elfgroup.fi",
+        "Address": "Hiltusentie 23 A 1, 90620 Oulu, Finland",
+        "Business Sector": "ICT, R&D-site, SW-development, Testing and Certification Services B2B, Industry, IoT, R&amp;D, Security"
     },
     {
         "company": "Topcon Healthcare Solutions EMEA Oy",
@@ -929,7 +1504,12 @@
         "link": "https://oulucompanies.fi/en/topcon-healthcare-solutions-emea-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://topconhealth.eu/",
+        "Phone": "+358 40 512 5679",
+        "Email": "aylimaula@topcon.com",
+        "Address": "M\u00e4kelininkatu 43\n90100 Oulu, Finland",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, ICT, SW-development B2B, eHealth, HealthTech"
     },
     {
         "company": "Maja shop",
@@ -937,7 +1517,12 @@
         "link": "https://oulucompanies.fi/en/maja-decor-lifestyle-shop/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.majashop.fi",
+        "Phone": "+358503307277",
+        "Email": "info@majashop.fi",
+        "Address": "",
+        "Business Sector": "Funding, assurance, Speciality retailing, Trade, Services, Logistics, Tourism, Wholesale trade B2B, B2C, Interior design, Online shopping"
     },
     {
         "company": "Temrex Oy",
@@ -945,7 +1530,12 @@
         "link": "https://oulucompanies.fi/en/temrex-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.temrex.fi",
+        "Phone": "+358500389866",
+        "Email": "info@temrex.fi",
+        "Address": "Temrex Oy J\u00e4\u00e4salontie 20 90400 Oulu Finland",
+        "Business Sector": "Speciality retailing, Trade, Services, Logistics, Tourism B2B, Security"
     },
     {
         "company": "MeKiwi Ltd",
@@ -953,7 +1543,12 @@
         "link": "https://oulucompanies.fi/en/mekiwi-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://mekiwi.org/en/homepage/#top",
+        "Phone": "CEO Samuel Kuosmanen (+358) 44 545 2020",
+        "Email": "mekiwi@mekiwi.org",
+        "Address": "c/o Njetwork Inn\nIsokatu 56\n90100 OULU\nFINLAND",
+        "Business Sector": "Yleinen AR, Artificial intelligence, AI, Augmented reality, B2B, e-Services, Graphic design, Online shopping, Virtual reality, VR"
     },
     {
         "company": "Catella Property Oy",
@@ -961,7 +1556,12 @@
         "link": "https://oulucompanies.fi/en/catella-property-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.catella.com/en/finland",
+        "Phone": "010 5220 100",
+        "Email": "info@catella.fi",
+        "Address": "Catella Property Oy\nKirkkokatu 6, 5. krs.\n90100 Oulu",
+        "Business Sector": "Real estate /estate management, Smarter and Cleaner Industry / Cleantech and Industry B2B, B2C, Business premises, Office premises, Renting"
     },
     {
         "company": "Huld Oy",
@@ -969,7 +1569,12 @@
         "link": "https://oulucompanies.fi/en/huld-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://huld.io/",
+        "Phone": "010 821 4800",
+        "Email": "sales@huld.io",
+        "Address": "Mikko With\nSite Manager, Oulu\n+358 40 582 8790\nmikko.with@huld.io",
+        "Business Sector": "Creative Industries, Design services, Development of BusinessModel, Development of CoreSystems, Health & Life Science, Health technology and eHealth, HW-development, HW-products, ICT, R&D-site, SW-development, SW-products, System Integration, Testing and Certification Services 5G, AI, AR, Artificial intelligence&#044; AI, Augmented reality, B2B, Connectivity, e-Services, HealthTech, Industrial Design, Industry, IoT, R&amp;D, Robotics, Security, Service Design, SmartCity, Virtual reality, VR"
     },
     {
         "company": "Chempolis Oy",
@@ -977,7 +1582,12 @@
         "link": "https://oulucompanies.fi/en/chempolis-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.chempolis.com",
+        "Phone": "+358(0)103876666",
+        "Email": "chempolis@chempolis.com",
+        "Address": "L\u00e4\u00e4ketehtaantie 1\n90660 Oulu\nFinland",
+        "Business Sector": "Yleinen B2B, Industry, R&amp;D"
     },
     {
         "company": "Ros Cooper \u2012 Communication Matters",
@@ -985,7 +1595,12 @@
         "link": "https://oulucompanies.fi/en/ros-cooper-communication-matters/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.roscooper.com/",
+        "Phone": "+358405351267",
+        "Email": "ros@roscooper.com",
+        "Address": "Ros Cooper\nros(@)roscooper.com\n+358405351267",
+        "Business Sector": "Consulting services, Education B2B, B2C, Educational tourism"
     },
     {
         "company": "Bitte",
@@ -993,7 +1608,12 @@
         "link": "https://oulucompanies.fi/en/bitte/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.bitte.fi/en/",
+        "Phone": "+358414355615",
+        "Email": "eija.hamalainen@bitte.fi",
+        "Address": "Let's connect at Linkedin: https://www.linkedin.com/in/hamalaineneija/",
+        "Business Sector": "Consulting services, Education, Trade, Services, Logistics, Tourism B2B"
     },
     {
         "company": "Craftman Oy",
@@ -1001,7 +1621,12 @@
         "link": "https://oulucompanies.fi/en/craftman-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://craftman.fi",
+        "Phone": "0400156425",
+        "Email": "JARI.KAHKONEN@CRAFTMAN.FI",
+        "Address": "Liuskekuja 3 lt 3 90620 OULU",
+        "Business Sector": "Maintenance services, Staffing service, Trade, Services, Logistics, Tourism B2B, Industry, Nuclear"
     },
     {
         "company": "Tuokko Oy Ltd",
@@ -1009,7 +1634,12 @@
         "link": "https://oulucompanies.fi/en/tuokko-oy-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tuokko.fi/en/",
+        "Phone": "+358 40 450 8523",
+        "Email": "kari.knuuttila@tuokko.fi",
+        "Address": "Sep\u00e4nkatu 20\n90100 Oulu",
+        "Business Sector": "Consulting services, Funding, assurance, Legal services B2B"
     },
     {
         "company": "LumoLink Digital Oy",
@@ -1017,7 +1647,12 @@
         "link": "https://oulucompanies.fi/en/lumolink-digital-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.lumolink.com/",
+        "Phone": "+358 50 404 4299",
+        "Email": "info@lumolink.com",
+        "Address": "Malminkartanonkuja 4\n00390 Helsinki\nFinland",
+        "Business Sector": "Advertising and communication services, Creative Industries e-Services, Graphic design, Online shopping, Service Design"
     },
     {
         "company": "Finnadvance",
@@ -1025,7 +1660,12 @@
         "link": "https://oulucompanies.fi/en/finnadvance/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.finnadvance.fi/",
+        "Phone": "+358406537049",
+        "Email": "science@finnadvance.fi",
+        "Address": "Prateek Singh\nAapistie 5, 415\nOulu",
+        "Business Sector": "Automation technology, Bioproducts & materials, Contract Manufacturing, Food industry and food processing, Health & Life Science, Health technology and eHealth, HW-development, HW-products, Life Science, pharmaceutical, Machinery and equipment manufacture, Other manufacture, R&D-site, SW-development, SW-products AI, AR, B2B, B2C, Diagnostics, Equipment, Fotonics, Health, HealthTech, Imaging, Industrial Design, Laboratory solutions, R&amp;D, Robotics"
     },
     {
         "company": "Verkkoasema Oy",
@@ -1033,7 +1673,12 @@
         "link": "https://oulucompanies.fi/en/verkkoasema-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.verkkoasema.fi",
+        "Phone": "020 735 0299",
+        "Email": "sales@verkkoasema.fi",
+        "Address": "Torikatu 26 2. kerros\n90100 Oulu\n(k\u00e4ynti talon sis\u00e4pihan puolelta)",
+        "Business Sector": "Advertising and communication services, Creative Industries, ICT"
     },
     {
         "company": "Kauneushoitola BellaHelena Oulu",
@@ -1041,7 +1686,12 @@
         "link": "https://oulucompanies.fi/en/kauneushoitola-bellahelena-oulu/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://bellahelena.fi",
+        "Phone": "+358445522802",
+        "Email": "bellahelenaoulu@gmail.com",
+        "Address": "Beauty Salon: Hallituskatu 10 (2nd), 90100 Oulu, Finland\nHelena Tauriainen\nCEO & founder\n\nMarkku Tauriainen\nCMO & Co-founder\nmobile +358 44 5522 800",
+        "Business Sector": "Health Services, Trade, Services, Logistics, Tourism Treatment"
     },
     {
         "company": "Herman Andersson Oy",
@@ -1049,7 +1699,12 @@
         "link": "https://oulucompanies.fi/en/herman-andersson-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.hermanandersson.fi",
+        "Phone": "+358-8-3150100",
+        "Email": "",
+        "Address": "Jari Erkkil\u00e4\nCustomer Service Manager, Sales\njari.erkkila@hermanandersson.fi\n+358-50-4087999\nPoikkimaantie 12\n90400 Oulu\nFinland",
+        "Business Sector": "Trade, Services, Logistics, Tourism, Transportation and logistics 5G, Industry, Logistics, Security"
     },
     {
         "company": "Viria Security Oy",
@@ -1057,7 +1712,12 @@
         "link": "https://oulucompanies.fi/en/viria-security-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.viria.fi/en",
+        "Phone": "029 001 3000",
+        "Email": "myynti@viria.fi",
+        "Address": "Torikatu 33\n90100 Oulu\npuh. 029 001 3820\noulu@viria.fi",
+        "Business Sector": "ICT"
     },
     {
         "company": "BBS-Bioactive Bone Substitutes Plc",
@@ -1065,7 +1725,12 @@
         "link": "https://oulucompanies.fi/en/bbs-bioactive-bone-substitutes-plc/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.bbs-artebone.fi/",
+        "Phone": "020 7924700",
+        "Email": "info@bbs-artebone.fi",
+        "Address": "Head office:\nKiviharjunlenkki 6\n3. floor\n90220 Oulu\n\nFactory:\nTeollisuustie 4\n85900 Reisj\u00e4rvi",
+        "Business Sector": "Health & Life Science, Life Science, pharmaceutical Health, HealthTech, Treatment"
     },
     {
         "company": "ROHM Semiconductor GmbH, Suomen sivuliike",
@@ -1073,7 +1738,12 @@
         "link": "https://oulucompanies.fi/en/rohm-semiconductor-gmbh-suomen-sivuliike/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.rohm.com/",
+        "Phone": "",
+        "Email": "",
+        "Address": "Koki Okada\nDirector\nkoki.okada@fi.rohmeurope.com\n\nSusumu Sekiguchi\nGeneral Affairs Expert\nsusumu.sekiguchi@fi.rohmeurope.com\n\nFrida Bergman\nGeneral Affairs Expert\nfrida.bergman@fi.rohmeurope.com\n\nROHM Semiconductor, GmbH Suomen sivuliike\nKiviharjunlenkki 1E\n90220 Oulu, FINLAND",
+        "Business Sector": "ICT, SW-development B2B, IoT, R&amp;D"
     },
     {
         "company": "Lukkaroinen Architects",
@@ -1081,7 +1751,12 @@
         "link": "https://oulucompanies.fi/en/lukkaroinen-architects/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.lukkaroinen.fi",
+        "Phone": "08 888 3300",
+        "Email": "toimisto@lukkaroinen.fi",
+        "Address": "Kauppurienkatu 12b, 90100 Oulu",
+        "Business Sector": "Architecture, Creative Industries Interior design"
     },
     {
         "company": "Sleep Company Oy",
@@ -1089,7 +1764,12 @@
         "link": "https://oulucompanies.fi/en/sleep-company-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "Https://www.uniakateami.fi",
+        "Phone": "+358409696838",
+        "Email": "Myynti@uniakatemia.fi",
+        "Address": "Mr Mika Rytky\nMika@uniakatemia.fi",
+        "Business Sector": "Health & Life Science, Health technology and eHealth eHealth, Health"
     },
     {
         "company": "Admescope Ltd",
@@ -1097,7 +1777,12 @@
         "link": "https://oulucompanies.fi/en/admescope-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.admescope.com/",
+        "Phone": "+358 (0) 207 429 970",
+        "Email": "info@admescope.com",
+        "Address": "Typpitie 1\n90620 Oulu\nFinland",
+        "Business Sector": "Consultancy services for health industry, Health & Life Science, Life Science, pharmaceutical, Other R&amp;D"
     },
     {
         "company": "SmartKitchen",
@@ -1105,7 +1790,12 @@
         "link": "https://oulucompanies.fi/en/ioliving/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://smartkitchen.solutions/en/frontpage/",
+        "Phone": "+358 44 331 0982",
+        "Email": "sales@smartkitchen.solutions",
+        "Address": "Teollisuustie 1\nFI-90830 Haukipudas",
+        "Business Sector": "Cleanweb & IoT, Electronics industry, ICT, Manufacturing industry, Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, SW-development, SW-products B2B, IoT"
     },
     {
         "company": "HT Motorace Oy",
@@ -1113,7 +1803,12 @@
         "link": "https://oulucompanies.fi/en/ht-motorace-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.snowcrossoulu.com/",
+        "Phone": "+358407606637",
+        "Email": "info@snowcrossoulu.com",
+        "Address": "info@snowcrossoulu.com",
+        "Business Sector": "Other services, Trade, Services, Logistics, Tourism Tourism services"
     },
     {
         "company": "Lavango Oy",
@@ -1121,7 +1816,12 @@
         "link": "https://oulucompanies.fi/en/lavango-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.lavango.fi",
+        "Phone": "0405456932",
+        "Email": "jukka.taskinen@lavango.fi",
+        "Address": "Haukitie 21\n90550 Oulu",
+        "Business Sector": "Clean water, Consultancy services for health industry, Consulting services, Daily consumer goods trade, Food industry and food processing, Health & Life Science, ICT, Measurement technology, Other, Other manufacture, Other services, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability, Trade, Services, Logistics, Tourism, Wholesale trade B2B, B2C, Industry, SmartCity"
     },
     {
         "company": "Contribyte",
@@ -1129,7 +1829,12 @@
         "link": "https://oulucompanies.fi/en/contribyte/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.contribyte.fi",
+        "Phone": "+358405122610",
+        "Email": "tanja.suomalainen@contribyte.fi",
+        "Address": "Pakkahuoneenkatu 15 A 2, 90100 Oulu",
+        "Business Sector": "Consulting services, Education, ICT B2B"
     },
     {
         "company": "Conseptas LTD",
@@ -1137,7 +1842,12 @@
         "link": "https://oulucompanies.fi/en/conseptas-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.conseptas.com",
+        "Phone": "",
+        "Email": "",
+        "Address": "https://www.conseptas.com/contact",
+        "Business Sector": "Consultancy services for health industry, Creative Industries, Design services, Health & Life Science, Health technology and eHealth, HW-development, SW-development, SW-products, System Integration HealthTech, Industrial Design, Industry, R&amp;D"
     },
     {
         "company": "TESTiLABS Oy",
@@ -1145,7 +1855,12 @@
         "link": "https://oulucompanies.fi/en/testilabs-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.testilabs.com/",
+        "Phone": "+358405310460",
+        "Email": "info@testilabs.com",
+        "Address": "Petri Pajarinen,\nUusikatu 24 F 61, \n90100 Oulu, \nFinland",
+        "Business Sector": "ICT, Testing and Certification Services B2B, Connectivity, HealthTech, Industry, IoT, R&amp;D"
     },
     {
         "company": "F-Secure Oyj",
@@ -1153,7 +1868,12 @@
         "link": "https://oulucompanies.fi/en/f-secure-oyj/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.f-secure.com/",
+        "Phone": "358925200700",
+        "Email": "",
+        "Address": "Elektroniikkatie 3",
+        "Business Sector": "Consulting services, ICT, R&D-site, SW-development, SW-products, System Integration, Yleinen AI, Artificial intelligence, AI, B2B, B2C, Fintech, Industry, IoT, Monitoring, Security"
     },
     {
         "company": "Kotivarasto",
@@ -1161,7 +1881,12 @@
         "link": "https://oulucompanies.fi/en/kotivarasto/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kotivarasto.fi/",
+        "Phone": "+35850 336 2352",
+        "Email": "oulu@kotivarasto.fi",
+        "Address": "Puistokatu 26, 90120 Oulu\nGneissitie 8, 90620 Oulu",
+        "Business Sector": "Daily consumer goods trade, Trade, Services, Logistics, Tourism Indoor location, Logistics, Security"
     },
     {
         "company": "KNL Networks (Kyynel Oy)",
@@ -1169,7 +1894,12 @@
         "link": "https://oulucompanies.fi/en/knl-networks-kyynel-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://knlnetworks.com",
+        "Phone": "",
+        "Email": "",
+        "Address": "info@knlnetworks.com",
+        "Business Sector": "ICT Connectivity, IoT"
     },
     {
         "company": "Qridi Oy",
@@ -1177,7 +1907,12 @@
         "link": "https://oulucompanies.fi/en/qridi-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.qridi.com/",
+        "Phone": "+358 445399845",
+        "Email": "info@qridi.fi",
+        "Address": "Kasarmintie 13A, 90130 Oulu",
+        "Business Sector": "Education, ICT, Trade, Services, Logistics, Tourism B2B"
     },
     {
         "company": "Valossa Labs Ltd.",
@@ -1185,7 +1920,12 @@
         "link": "https://oulucompanies.fi/en/valossa-labs-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://valossa.com/",
+        "Phone": "",
+        "Email": "info@valossa.com",
+        "Address": "Lauri Penttil\u00e4\nMarketing & Communications Manager\nlauri.penttila@valossa.com",
+        "Business Sector": "Creative Industries, ICT, Media, Mobility, Smart factory, Smarter and Cleaner Industry / Cleantech and Industry, SW-development, SW-products AI, Artificial intelligence, AI, Audiovisual production"
     },
     {
         "company": "Refecor Oy",
@@ -1193,7 +1933,12 @@
         "link": "https://oulucompanies.fi/en/refecor-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.refecor.com",
+        "Phone": "+358408203987",
+        "Email": "info@refecor.com",
+        "Address": "info@refecor.com\n\nRefecor Oy\nIsokatu 8A1\n90100\nOulu Finland",
+        "Business Sector": "Agriculture, Air quality, Automation technology, Building management systems, CHP & DHC, Circular economy, Clean water, Cleanweb & IoT, Construction, Consulting services, Contract Manufacturing, Design services, Development of BusinessModel, Development of CoreSystems, Electronics industry, Energy & Resource efficiency, Energy production & distribution, Forest, paper and wood industry, Green buildings, Health & Life Science, Health technology and eHealth, HW-development, HW-products, ICT, Infrastructure, Machinery and equipment manufacture, Maintenance and automation, Manufacturing industry, Marine & shipping, Measurement technology, Mining, Mobility, Other, Other manufacture, Other services, R&D-site, Real estate /estate management, Recycling, Renewables & smart grid, Smart factory, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry, Solar Energy, Staffing service, Sustainability, Sustainable city, SW-development, SW-products, System Integration, Testing and Certification Services, Trade, Services, Logistics, Tourism, Waste Management, Water technology, Wind energy 5G, AI, Animation, AR, Artificial intelligence&#044; AI, Augmented reality, B2B, B2C, Chipset, Connectivity, Diagnostics, e-Services, Educational tourism, eHealth, Equipment, Fintech, Fotonics, Graphic design, HealthTech, Imaging, Indoor location, Industrial Design, Industry, Interior design, IoT, Laboratory solutions, Leisure Activity Services, Logistics, Monitoring, NPI services, R&amp;D, Robotics, Security, Service Design, SmartCity, Social and health care systems, Virtual reality, VR"
     },
     {
         "company": "Eventilla Oy",
@@ -1201,7 +1946,12 @@
         "link": "https://oulucompanies.fi/en/eventilla-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.eventilla.com/en/",
+        "Phone": "",
+        "Email": "sales@eventilla.com",
+        "Address": "sales@eventilla.com",
+        "Business Sector": "Creative Industries, ICT, SW-products B2B, e-Services"
     },
     {
         "company": "Verkotan Oy",
@@ -1209,7 +1959,12 @@
         "link": "https://oulucompanies.fi/en/verkotan-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.verkotan.com",
+        "Phone": "+358 40 500 1241",
+        "Email": "kari.komonen@verkotan.com",
+        "Address": "Elektroniikkatie 17, 90590, Oulu, Finland",
+        "Business Sector": "ICT, Testing and Certification Services 5G, B2B, Connectivity, HealthTech, Industry, IoT"
     },
     {
         "company": "Mutant Koala Pictures",
@@ -1217,7 +1972,12 @@
         "link": "https://oulucompanies.fi/en/mutant-koala-pictures/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.mutantkoala.com",
+        "Phone": "+358 44 333 0181",
+        "Email": "info@mutantkoala.com",
+        "Address": "Rantakatu 3\n90100 FI-Oulu\nFinland",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts Animation, Audiovisual production"
     },
     {
         "company": "FinnOppi Oy",
@@ -1225,7 +1985,12 @@
         "link": "https://oulucompanies.fi/en/finnoppi-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://finnoppi.com/",
+        "Phone": "+358409125846",
+        "Email": "yuki@finnoppi.com",
+        "Address": "Johdekuja 7, 90540 Oulu, Finland",
+        "Business Sector": "Yleinen B2B, Educational tourism, Tour operator and DMC, Tourism services"
     },
     {
         "company": "Stora Enso Oulu MIll",
@@ -1233,7 +1998,12 @@
         "link": "https://oulucompanies.fi/en/stora-enso-oulu-mill/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://storaenso.com",
+        "Phone": "+358 204 61 24",
+        "Email": "",
+        "Address": "Stora Enso Oulu Oy\nP.O.Box 196\nFI-90101 Oulu\nFinland",
+        "Business Sector": "Bioproducts & materials, Forest, paper and wood industry, Smarter and Cleaner Industry / Cleantech and Industry Industry"
     },
     {
         "company": "Solved The Cleantech Company",
@@ -1241,7 +2011,12 @@
         "link": "https://oulucompanies.fi/en/solved-the-cleantech-company/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.solved.fi",
+        "Phone": "+358503703573",
+        "Email": "janne.hietaniemi@solved.fi",
+        "Address": "Janne Hietaniemi\njanne.hietaniemi@solved.fi\n+358503703573\nSanttu Hulkkonen\nsanttu.hulkkonen@solved.fi\n+358503732895\nRadoslav Mizera\nradoslav.mizera@solved.fi\n+421948273327",
+        "Business Sector": "Agriculture, Air quality, Bioenergy & biofuels, Bioproducts & materials, CHP & DHC, Circular economy, Clean water, Cleanweb & IoT, Construction, Energy & Resource efficiency, Energy production & distribution, Food industry and food processing, Forest, paper and wood industry, Green buildings, Infrastructure, Machinery and equipment manufacture, Marine & shipping, Measurement technology, Mining, Mobility, Recycling, Renewables & smart grid, Smart factory, Smart transport & logistics, Smarter and Cleaner Industry / Cleantech and Industry, Solar Energy, Sustainability, Sustainable city, Waste Management, Waste-to-energy, Waste-to-value, Water technology, Wind energy B2B"
     },
     {
         "company": "Maikkulan Kartano",
@@ -1249,7 +2024,12 @@
         "link": "https://oulucompanies.fi/en/maikkulan-kartano/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.maikkulankartano.fi",
+        "Phone": "+358 44 7403550",
+        "Email": "maikkula@maikkulankartano.fi",
+        "Address": "Maikkulanrinne 21, 90240 Oulu, Finland",
+        "Business Sector": "Hotel and catering, Trade, Services, Logistics, Tourism B2B, Leisure Activity Services"
     },
     {
         "company": "Nestor Cables Ltd",
@@ -1257,7 +2037,12 @@
         "link": "https://oulucompanies.fi/en/nestor-cables-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.nestorcables.com/",
+        "Phone": "(+358) 20 791 2770",
+        "Email": "info@nestorcables.fi",
+        "Address": "Mittarikuja 5, 90620 Oulu, Finland \n\nPO. Box 276, 90101 Oulu, Finland",
+        "Business Sector": "Yleinen Connectivity, Industry, SmartCity"
     },
     {
         "company": "POHTO Oy",
@@ -1265,7 +2050,12 @@
         "link": "https://oulucompanies.fi/en/pohto-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.pohto.fi/",
+        "Phone": "Education Tel: +358 10 843 4600",
+        "Email": "asiakaspalvelu@pohto.fi",
+        "Address": "Contact our sales team and tell us what you need. \nWe are here to help!\ne-mail: asiakaspalvelu@pohto.fi\nAddress: Vellamontie 12, 90510 Oulu",
+        "Business Sector": "Education, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Grant4Com",
@@ -1273,7 +2063,12 @@
         "link": "https://oulucompanies.fi/en/grant4com/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.grant4com.fi/",
+        "Phone": "+358 40 543 2769",
+        "Email": "kari-matti.jokinen@grant4com.fi",
+        "Address": "Grant4Com Oy\nYrttipellontie 6 \n90230 Oulu",
+        "Business Sector": "ICT, Testing and Certification Services B2B, Connectivity, HealthTech, Industry, IoT, R&amp;D"
     },
     {
         "company": "Hubit Oy",
@@ -1281,7 +2076,12 @@
         "link": "https://oulucompanies.fi/en/hubit-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.hubit.fi/",
+        "Phone": "+358503955470",
+        "Email": "tomi@hubit.fi",
+        "Address": "Hubit Oy\nKasarmintie 21 \n90130 Oulu \nFinland",
+        "Business Sector": "Advertising and communication services, Consultancy services for health industry, Consulting services, Creative Industries, Health & Life Science, ICT, Media, Other services, System Integration, Trade, Services, Logistics, Tourism AI, Artificial intelligence&#044; AI, Audiovisual production, B2B, B2C, IoT, Service Design"
     },
     {
         "company": "PureWarm OY",
@@ -1289,7 +2089,12 @@
         "link": "https://oulucompanies.fi/en/purewarm-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kauppa.purewarm.fi",
+        "Phone": "+358405599007",
+        "Email": "anssi.kotanen@purewarm.com",
+        "Address": "email: anssi.kotanen@purewarm.com\ntel:  +358405599007\nIG:  @purewarmer\nWebshop:  kauppa.purewarm.fi",
+        "Business Sector": "ICT, SW-products, Trade, Services, Logistics, Tourism, Wholesale trade 5G, B2B, B2C, Online shopping"
     },
     {
         "company": "Offcode Oy",
@@ -1297,7 +2102,12 @@
         "link": "https://oulucompanies.fi/en/offcode-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.offcode.fi",
+        "Phone": "",
+        "Email": "info@offcode.fi",
+        "Address": "Offcode Oy\nValtatie 67,\n90500 Oulu, Finland\nantti.takaluoma@offcode.fi\nTel: +358 8 531 5085\nFax: +358 8 531 5086",
+        "Business Sector": "Development of CoreSystems, HW-development, HW-products, ICT, R&D-site, SW-development, System Integration B2B, Equipment, Industry, IoT, Monitoring, R&amp;D"
     },
     {
         "company": "PollenTech Oy",
@@ -1305,7 +2115,12 @@
         "link": "https://oulucompanies.fi/en/pollentech-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.pollentech.io",
+        "Phone": "+358 40 552 4674",
+        "Email": "info@pollentech.io",
+        "Address": "Kaarnatie 40\n90530 Oulu\nFinland",
+        "Business Sector": "ICT, R&D-site, SW-development, SW-products, System Integration Chipset, Connectivity, IoT, R&amp;D"
     },
     {
         "company": "Reactive Technologies Finland Oy",
@@ -1313,7 +2128,12 @@
         "link": "https://oulucompanies.fi/en/reactive-technologies-finland-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.reactive-technologies.com/",
+        "Phone": "0503219072",
+        "Email": "info@reactive-technologies.com",
+        "Address": "Toimitusjohtaja Ville Kampman",
+        "Business Sector": "Energy & Resource efficiency, Energy production & distribution, Renewables & smart grid, Smarter and Cleaner Industry / Cleantech and Industry, Solar Energy, Sustainability, Wind energy AI, Artificial intelligence, AI, IoT, R&amp;D, Service Design"
     },
     {
         "company": "De Gamlas Hem Hotel & Restaurant",
@@ -1321,7 +2141,12 @@
         "link": "https://oulucompanies.fi/en/de-gamlas-hem-hotel-restaurant/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.degamlashotel.fi",
+        "Phone": "+358 75 325 7600",
+        "Email": "info@degamlashotel.fi",
+        "Address": "Kirkkokatu 54, 90120 Oulu, Finland",
+        "Business Sector": "Hotel and catering, Trade, Services, Logistics, Tourism B2B, B2C, Educational tourism"
     },
     {
         "company": "Valtavalo Ltd.",
@@ -1329,7 +2154,12 @@
         "link": "https://oulucompanies.fi/en/valtavalo-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.valtavalo.com",
+        "Phone": "+358 207 789 880",
+        "Email": "info@valtavalo.fi",
+        "Address": "Sammaltie 14\n90620 Oulu, Finland",
+        "Business Sector": "Circular economy, Electronics industry, Manufacturing industry, Other manufacture, Smarter and Cleaner Industry / Cleantech and Industry, Sustainability B2B, Industry, Robotics"
     },
     {
         "company": "Joiqucom Oy",
@@ -1337,7 +2167,12 @@
         "link": "https://oulucompanies.fi/en/joiqucom-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.joiqu.com/en",
+        "Phone": "+358400587253",
+        "Email": "jari@joiqu.com",
+        "Address": "Kasarmintie 21, FI-90130 Oulu, Finland",
+        "Business Sector": "ICT B2B, B2C, e-Services"
     },
     {
         "company": "GolfArk Oy",
@@ -1345,7 +2180,12 @@
         "link": "https://oulucompanies.fi/en/golfark-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.golf-ark.com",
+        "Phone": "+358405646174",
+        "Email": "jari.rasinkangas@golf-ark.com",
+        "Address": "Kaustatie 11\n90650 Oulu\nFinland",
+        "Business Sector": "Architecture, Consulting services, Creative Industries, Trade, Services, Logistics, Tourism B2B, B2C"
     },
     {
         "company": "Optomed",
@@ -1353,7 +2193,12 @@
         "link": "https://oulucompanies.fi/en/optomed/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.optomed.com/",
+        "Phone": "+358 20 741 3380",
+        "Email": "info@optomed.com",
+        "Address": "Yrttipellontie 1\n90230 Oulu\nFinland",
+        "Business Sector": "Health & Life Science, Health technology and eHealth Health, HealthTech, Imaging"
     },
     {
         "company": "Juha M. Kinnunen Photography",
@@ -1361,7 +2206,12 @@
         "link": "https://oulucompanies.fi/en/juha-m-kinnunen-photography/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://juhamkinnunen.com",
+        "Phone": "+358407396928",
+        "Email": "juhamikkokinnunen@hotmail.com",
+        "Address": "Address: Rautatienkatu 5 A 12, 90100 Oulu, Finland",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts Audiovisual production"
     },
     {
         "company": "Specim, Spectral Imaging Oy Ltd.",
@@ -1369,7 +2219,12 @@
         "link": "https://oulucompanies.fi/en/specim-spectral-imaging-oy-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.specim.fi",
+        "Phone": "+358 (0)10 4244 400",
+        "Email": "info@specim.fi",
+        "Address": "Head Office\nVisiting address:\nElektroniikkatie 13\nFI-90590 Oulu\nFinland\n\nPostal address:\nPOB 110\nFI-90571 Oulu\nFinland",
+        "Business Sector": "Measurement technology, Smarter and Cleaner Industry / Cleantech and Industry B2B, Fotonics, Imaging"
     },
     {
         "company": "PPV Lex Law Firm Oy",
@@ -1377,7 +2232,12 @@
         "link": "https://oulucompanies.fi/en/ppv-lex-law-firm-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.ppvlex.fi",
+        "Phone": "+358 20 7431 200",
+        "Email": "info@ppvlex.fi",
+        "Address": "PPV Lex Law Firm Oy\nKirkkokatu 27 A (Rotuaari) \nFI-90100 Oulu",
+        "Business Sector": "Legal services, Trade, Services, Logistics, Tourism, Yleinen"
     },
     {
         "company": "Efektimedia",
@@ -1385,7 +2245,12 @@
         "link": "https://oulucompanies.fi/en/efektimedia/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.efektimedia.fi",
+        "Phone": "+358449996811",
+        "Email": "tuomo@efektimedia.fi",
+        "Address": "90100 Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts, Yleinen Animation, Audiovisual production, B2B, Graphic design"
     },
     {
         "company": "Stoorila",
@@ -1393,7 +2258,12 @@
         "link": "https://oulucompanies.fi/en/stoorila/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.stoorila.fi",
+        "Phone": "0447049763",
+        "Email": "tanja@stoorila.fi",
+        "Address": "Phone: 0447049763\nemail: tanja@stoorila.fi\n\nOulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Visual arts Audiovisual production, B2B, B2C, Graphic design, Service Design"
     },
     {
         "company": "Vaimo Finland Oy",
@@ -1401,7 +2271,12 @@
         "link": "https://oulucompanies.fi/en/vaimo-finland-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.vaimo.com/fi/",
+        "Phone": "+358504131455",
+        "Email": "marko.rytkonen@vaimo.com",
+        "Address": "marko.rytkonen@vaimo.com / +358504131455",
+        "Business Sector": "Development of BusinessModel, Development of CoreSystems, ICT, SW-development, System Integration B2B, B2C, e-Services, Graphic design, Online shopping"
     },
     {
         "company": "Netox Oy",
@@ -1409,7 +2284,12 @@
         "link": "https://oulucompanies.fi/en/netox-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.netox.fi",
+        "Phone": "+35810 421 1100",
+        "Email": "info@netox.fi",
+        "Address": "Oulu:\nSaaristonkatu 22\n90100 Oulu\n\nHelsinki:\nMannerheimintie 164\n00300 Helsinki",
+        "Business Sector": "ICT AI, Artificial intelligence, AI, Connectivity, IoT, Monitoring, Security"
     },
     {
         "company": "Buutti Oy",
@@ -1417,7 +2297,12 @@
         "link": "https://oulucompanies.fi/en/buutti-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://buutti.com",
+        "Phone": "+358400663463",
+        "Email": "mikko.koistinen@buutti.com",
+        "Address": "Teknologiantie 2B6\n90570\nOulu",
+        "Business Sector": "ICT, SW-development, SW-products 5G, AI, B2B, Connectivity, Fintech, HealthTech, IoT, Robotics"
     },
     {
         "company": "SH Esthetics \u2013 Sari Huttunen t:mi",
@@ -1425,7 +2310,12 @@
         "link": "https://oulucompanies.fi/en/sh-esthetics-sari-huttunen-tmi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.shesthetics.fi/",
+        "Phone": "+3584578755022",
+        "Email": "info@shesthetics.fi",
+        "Address": "Address:\nMerikoskenkatu 1 L 45\n90500 Oulu\nPhone:\n+3584578755022\nemail:\ninfo@shesthetics.fi",
+        "Business Sector": "Yleinen Health, Treatment"
     },
     {
         "company": "So Pretty",
@@ -1433,7 +2323,12 @@
         "link": "https://oulucompanies.fi/en/so-pretty/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.sopretty.fi/en",
+        "Phone": "+358449790454",
+        "Email": "info@sopretty.fi",
+        "Address": "Nurmikkakuja 1A4",
+        "Business Sector": "Trade, Services, Logistics, Tourism, Wholesale trade"
     },
     {
         "company": "Konffa Oy td",
@@ -1441,7 +2336,12 @@
         "link": "https://oulucompanies.fi/en/konffa-oy-td/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.konffa.fi/en",
+        "Phone": "+358102926500",
+        "Email": "info@konffa.fi",
+        "Address": "Vihikari 10\nFI-90440 Kempele",
+        "Business Sector": "Consulting services, Other services, Trade, Services, Logistics, Tourism B2B, B2C"
     },
     {
         "company": "Aasa Studio",
@@ -1449,7 +2349,12 @@
         "link": "https://oulucompanies.fi/en/aasa-studio/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://aasastudio.com",
+        "Phone": "+358 40 8795 780",
+        "Email": "posti@aasastudio.fi",
+        "Address": "Maahisentie 2K A5\n90550 OULU",
+        "Business Sector": "Yleinen B2B, e-Services, Graphic design, Online shopping, Service Design, Tourism services"
     },
     {
         "company": "Bittium",
@@ -1457,7 +2362,12 @@
         "link": "https://oulucompanies.fi/en/bittium/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.bittium.com/",
+        "Phone": "+358 40 344 2000",
+        "Email": "",
+        "Address": "Bittium Corporation \nRitaharjuntie 1 \nFI-90590 Oulu, Finland",
+        "Business Sector": "Consulting services, Health technology and eHealth, HW-development, HW-products, ICT, R&D-site, SW-development, SW-products, System Integration, Testing and Certification Services 5G, AI, Artificial intelligence, AI, B2B, Connectivity, IoT, R&amp;D, Robotics, Security, SmartCity"
     },
     {
         "company": "Timegate Instruments Oy",
@@ -1465,7 +2375,12 @@
         "link": "https://oulucompanies.fi/en/timegate-instruments-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.timegate.com/",
+        "Phone": "",
+        "Email": "info@timegate.fi",
+        "Address": "Teknologiantie 5b,\n90590 Oulu, Finland",
+        "Business Sector": "HW-development, HW-products, ICT, R&D-site, SW-development B2B, Diagnostics, e-Services, Equipment, Fintech, Fotonics, Industry, IoT, Laboratory solutions, Monitoring, R&amp;D"
     },
     {
         "company": "Bitfactor",
@@ -1473,7 +2388,12 @@
         "link": "https://oulucompanies.fi/en/bitfactor/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://bitfactor.fi/en/",
+        "Phone": "+358 50 482 1558",
+        "Email": "sales@bitfactor.fi",
+        "Address": "Elektroniikkatie 2A\n90590 Oulu\n\nMikonkatu 4\n00100 Helsinki",
+        "Business Sector": "Development of BusinessModel, ICT, SW-development, SW-products, System Integration AI, Artificial intelligence&#044; AI, B2B, Fintech, Graphic design, HealthTech, IoT, Service Design"
     },
     {
         "company": "Tuudo Oy",
@@ -1481,7 +2401,12 @@
         "link": "https://oulucompanies.fi/en/tuudo-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tuudo.fi/en",
+        "Phone": "050 331 3295",
+        "Email": "info@tuudo.fi",
+        "Address": "Tuudo Oy\nPaavo Havaksen tie 5 F\n90570 Oulu\nFinland",
+        "Business Sector": "ICT"
     },
     {
         "company": "Masinotek Oy",
@@ -1489,7 +2414,12 @@
         "link": "https://oulucompanies.fi/en/masinotek-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://masinotek.com/en/",
+        "Phone": "+358 50 558 2255",
+        "Email": "info@masinotek.com",
+        "Address": "Ensimm\u00e4inen Savu 2\n01510 Vantaa, Finland/\nAsemakatu 28 A 9\n90100 Oulu, Finland\nVantaa: +358 (0)9 348 9489\nOulu: +358 (0)8 810 0110\ninfo (at) masinotek.com",
+        "Business Sector": "ICT, SW-development, SW-products, System Integration Graphic design, Industry, IoT, Monitoring"
     },
     {
         "company": "Taide ja kehys Jokela",
@@ -1497,7 +2427,12 @@
         "link": "https://oulucompanies.fi/en/taide-ja-kehys-jokela/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.taide-kehysjokela.com",
+        "Phone": "+3588378987",
+        "Email": "taidejakehysjokela@luukku.com",
+        "Address": "Aleksanterinkatu 16\n90100 OULU\nFINLAND",
+        "Business Sector": "Creative Industries, Design services, Lifestyle design, crafts, Other services, Speciality retailing, Trade, Services, Logistics, Tourism, Visual arts Equipment, Fashion design, Graphic design, Industry"
     },
     {
         "company": "New Cable Corporation Oy",
@@ -1505,7 +2440,12 @@
         "link": "https://oulucompanies.fi/en/new-cable-corporation-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.newcablecorporation.com",
+        "Phone": "+358 50 598 6278",
+        "Email": "sales@newcablecorporation.com",
+        "Address": "New Cable Corporation\nKaitov\u00e4yl\u00e4 1\nFI-90590 Oulu\nFinland",
+        "Business Sector": "Yleinen IoT"
     },
     {
         "company": "Nutri-Flow Oy",
@@ -1513,7 +2453,12 @@
         "link": "https://oulucompanies.fi/en/nutri-flow-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://nutri-flow.fi",
+        "Phone": "+358 400 858 719",
+        "Email": "info@nutri-flow.fi",
+        "Address": "Villiper\u00e4ntie 5\n90410 Oulu\nFinland",
+        "Business Sector": "Consultancy services for health industry, Health & Life Science, Health technology and eHealth, Healthcare and Wellness services, Other AI, Artificial intelligence&#044; AI, B2B, B2C, e-Services, eHealth, Health, HealthTech, Monitoring, R&amp;D, Service Design"
     },
     {
         "company": "Augumenta Ltd.",
@@ -1521,7 +2466,12 @@
         "link": "https://oulucompanies.fi/en/augumenta-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://augumenta.com",
+        "Phone": "",
+        "Email": "info@augumenta.com",
+        "Address": "Elektroniikkatie 3\n50950 Oulu",
+        "Business Sector": "ICT, SW-development 5G, AR, Augmented reality, B2B, Industry, IoT, Monitoring, R&amp;D, Robotics, SmartCity"
     },
     {
         "company": "Studio Timo Heikkala Oy",
@@ -1529,7 +2479,12 @@
         "link": "https://oulucompanies.fi/en/studio-timo-heikkala-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://heikkala.fi",
+        "Phone": "+358 40 5560231",
+        "Email": "timo@heikkala.fi",
+        "Address": "Rantakatu 3, 90100 Oulu",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts Audiovisual production, B2B, B2C"
     },
     {
         "company": "Tekniikka- ja Taloustoimisto Tilipussi",
@@ -1537,7 +2492,12 @@
         "link": "https://oulucompanies.fi/en/tekniikka-ja-taloustoimisto-tilipussi/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tilipussi.fi",
+        "Phone": "040 770 2476",
+        "Email": "mika.rautio@tilipussi.fi",
+        "Address": "Ruotutie 10 D\n90630 Oulu",
+        "Business Sector": "Consulting services, Funding, assurance, Legal services, Trade, Services, Logistics, Tourism B2B, e-Services, Fintech"
     },
     {
         "company": "FOTOINFERNO",
@@ -1545,7 +2505,12 @@
         "link": "https://oulucompanies.fi/en/fotoinferno/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.fotoinferno.com",
+        "Phone": "+358 40 837 5553",
+        "Email": "markku@fotoinferno.com",
+        "Address": "Markku Hyttinen\n040 837 5553",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media, Visual arts Audiovisual production, Graphic design"
     },
     {
         "company": "Go Arctic Ltd",
@@ -1553,7 +2518,12 @@
         "link": "https://oulucompanies.fi/en/go-arctic-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.goarctic.fi/en/",
+        "Phone": "+358 (0)8 415 277 70",
+        "Email": "info@goarctic.fi",
+        "Address": "P.O.Box 16, 90901 Kiiminki, OULU, FINLAND",
+        "Business Sector": "Creative Industries, Sports and experience services, Trade, Services, Logistics, Tourism, Travel Agency Leisure Activity Services, Music services, Tour operator and DMC, Tourism services"
     },
     {
         "company": "TietoEVRY",
@@ -1561,7 +2531,12 @@
         "link": "https://oulucompanies.fi/en/tieto/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tietoevry.com",
+        "Phone": "+3582072010",
+        "Email": "",
+        "Address": "TietoEVRY\nYrttipellontie 1 A\nFI-90230 Oulu\nFinland",
+        "Business Sector": "Health technology and eHealth, ICT"
     },
     {
         "company": "Aurora DC Finland Ltd",
@@ -1569,7 +2544,12 @@
         "link": "https://oulucompanies.fi/en/aurora-dc-finland-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://auroradc.fi",
+        "Phone": "+358407268875",
+        "Email": "info@auroradc.fi",
+        "Address": "Laakeritie 22A, 90620 Oulu",
+        "Business Sector": "ICT, SW-products, System Integration 5G, AI, Artificial intelligence, AI, IoT, SmartCity, Virtual reality, VR"
     },
     {
         "company": "Talenom Oyj",
@@ -1577,7 +2557,12 @@
         "link": "https://oulucompanies.fi/en/talenom-oyj-2/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.talenom.fi/en",
+        "Phone": "0207 525 000",
+        "Email": "info@talenom.fi",
+        "Address": "Yrttipellontie 2\n90230 Oulu",
+        "Business Sector": "Yleinen"
     },
     {
         "company": "Idesco Oy",
@@ -1585,7 +2570,12 @@
         "link": "https://oulucompanies.fi/en/idesco-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.idesco.fi",
+        "Phone": "+358 20 743 4175",
+        "Email": "info@idesco.fi",
+        "Address": "Teknologiantie 9, 90590 Oulu, Finland",
+        "Business Sector": "HW-products, ICT Security"
     },
     {
         "company": "InstoPeak Oy",
@@ -1593,7 +2583,12 @@
         "link": "https://oulucompanies.fi/en/instopeak-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.instopeak.fi",
+        "Phone": "040-7140010",
+        "Email": "info@instopeak.fi",
+        "Address": "",
+        "Business Sector": "Consulting services, Maintenance services, Other services, Trade, Services, Logistics, Tourism B2B, B2C, Equipment"
     },
     {
         "company": "InnoConnections",
@@ -1601,7 +2596,12 @@
         "link": "https://oulucompanies.fi/en/innoconnections/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.innoconnections.com",
+        "Phone": "+358405623855",
+        "Email": "markus@innoconnections.com",
+        "Address": "InnoConnections\nMarkus Pitk\u00e4nen\nLehmil\u00e4ntie 52\n90900, Kiiminki",
+        "Business Sector": "Consultancy services for health industry, Consulting services, Health & Life Science, ICT, Smarter and Cleaner Industry / Cleantech and Industry, Trade, Services, Logistics, Tourism, Yleinen B2B"
     },
     {
         "company": "Kolster",
@@ -1609,7 +2609,12 @@
         "link": "https://oulucompanies.fi/en/kolster/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kolster.fi/en",
+        "Phone": "+358 20 137 0500",
+        "Email": "kolster@kolster.fi",
+        "Address": "HELSINKI, head office:\nKolster Oy Ab\nSalmisaarenaukio 1\nPO Box 204\nFI-00181 Helsinki, Finland\n\nOULU, branch office:\nKolster Oy Ab \nElektroniikkatie 8\nFI-90590 Oulu, Finland",
+        "Business Sector": "Consulting services, Health & Life Science, ICT, Legal services, Other services, R&D-site, Smarter and Cleaner Industry / Cleantech and Industry 5G, AI, Artificial intelligence, AI, Augmented reality, B2B, Connectivity, Fintech, HealthTech, Indoor location, Industrial Design, Industry, IoT, R&amp;D, Robotics, Security, SmartCity, Virtual reality, VR"
     },
     {
         "company": "Medanets",
@@ -1617,7 +2622,12 @@
         "link": "https://oulucompanies.fi/en/medanets/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://medanets.com/",
+        "Phone": "+358 10 336 1780",
+        "Email": "hello@medanets.com",
+        "Address": "Kiilakiventie 1 \nFI-90250 Oulu",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, ICT, SW-development, SW-products B2B, eHealth, Health, HealthTech, Monitoring, Social and health care systems, Treatment"
     },
     {
         "company": "Avalon Oy",
@@ -1625,7 +2635,12 @@
         "link": "https://oulucompanies.fi/en/avalon-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.avalon.fi/",
+        "Phone": "+358400863007",
+        "Email": "info@avalon.fi",
+        "Address": "OULU\nKasarmintie 21\n90130 Oulu\n\nHELSINKI\nTammasaarenkatu 3\n00180 Helsinki",
+        "Business Sector": "Advertising and communication services, Creative Industries Audiovisual production, B2B, B2C, e-Services, Graphic design, Online shopping"
     },
     {
         "company": "Mekitec Oy",
@@ -1633,7 +2648,12 @@
         "link": "https://oulucompanies.fi/en/mekitec-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.mekitec.com",
+        "Phone": "+358207410990",
+        "Email": "info@mekitec.com",
+        "Address": "Mekitec Oy\nTeknologiantie 3\n90590 Oulu\nFINLAND\n\nTel:        +358 20 741 0990",
+        "Business Sector": "Automation technology, Food industry and food processing, Health & Life Science, Machinery and equipment manufacture, Other Equipment, Imaging, Industry"
     },
     {
         "company": "PehuTec Oy",
@@ -1641,7 +2661,12 @@
         "link": "https://oulucompanies.fi/en/pehutec-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.pehutec.com/en/home/",
+        "Phone": "+358 40 728 7177",
+        "Email": "pekka.paivarinta@pehutec.com",
+        "Address": "PehuTec Oulu\nElektroniikkatie 10\n90590 Oulu, Finland",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, HW-development, HW-products, ICT, R&D-site, SW-development, SW-products, System Integration, Testing and Certification Services 5G, AI, Artificial intelligence, AI, Connectivity, HealthTech, IoT, R&amp;D"
     },
     {
         "company": "Embelin Ltd.",
@@ -1649,7 +2674,12 @@
         "link": "https://oulucompanies.fi/en/embelin-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.embelin.fi",
+        "Phone": "+35810 3284 100",
+        "Email": "info@embelin.fi",
+        "Address": "Yrttipellontie 10\n90230 OULU\nFinland",
+        "Business Sector": "HW-development, HW-products, ICT, R&D-site, SW-development, SW-products Connectivity, Diagnostics, IoT"
     },
     {
         "company": "Kaitotek Oy",
@@ -1657,7 +2687,12 @@
         "link": "https://oulucompanies.fi/en/kaitotek-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.kaitotek.com",
+        "Phone": "+358 40 1204010",
+        "Email": "info@kaitotek.com",
+        "Address": "Oulu, Finland",
+        "Business Sector": "Consulting services, ICT, Maintenance and automation, Measurement technology, Other services, SW-development, SW-products, Testing and Certification Services 5G, B2B, Connectivity, Diagnostics, Industry, IoT, Logistics, Monitoring, R&amp;D, Robotics, Security, SmartCity"
     },
     {
         "company": "Vauhtipuisto Oy",
@@ -1665,7 +2700,12 @@
         "link": "https://oulucompanies.fi/en/vauhtipuisto-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://vauhtipuisto.fi",
+        "Phone": "0405567533",
+        "Email": "Info@vauhtipuisto.com",
+        "Address": "Hietasaarentie 9, 90510 Oulu, Finland",
+        "Business Sector": "Education, Other services, Social Services, Trade, Services, Logistics, Tourism"
     },
     {
         "company": "Eventours",
@@ -1673,7 +2713,12 @@
         "link": "https://oulucompanies.fi/en/eventours/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.eventours.fi",
+        "Phone": "+358 40 7611 466",
+        "Email": "sales@eventours.fi",
+        "Address": "Nuppputie 11, 90570 OULU",
+        "Business Sector": "Consulting services, Other services, Social Services, Trade, Services, Logistics, Tourism B2B, B2C"
     },
     {
         "company": "Code-Q Oy",
@@ -1681,7 +2726,12 @@
         "link": "https://oulucompanies.fi/en/code-q-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.code-q.fi",
+        "Phone": "+358503869143",
+        "Email": "info@code-q.fi",
+        "Address": "Kirkkokatu 19 A 30, 90100 OULU, Finland",
+        "Business Sector": "Health & Life Science, Health technology and eHealth, ICT, R&D-site, SW-development, SW-products IoT"
     },
     {
         "company": "Koukoi Games",
@@ -1689,7 +2739,12 @@
         "link": "https://oulucompanies.fi/en/koukoi-games/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://koukoi.com",
+        "Phone": "",
+        "Email": "info@koukoi.com",
+        "Address": "Koukoi Games Oy\nValtatie 67, FI90500 Oulu, Finland\n\nE-mail: info[at]koukoi.com\nor firstname.lastname[at]koukoi.com",
+        "Business Sector": "Creative Industries, Gaming industry B2B, B2C"
     },
     {
         "company": "Kuvion",
@@ -1697,7 +2752,12 @@
         "link": "https://oulucompanies.fi/en/kuvion/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.kuvion.fi",
+        "Phone": "",
+        "Email": "contact@kuvion.fi",
+        "Address": "Contact us via email or through the contact box on our webpage.",
+        "Business Sector": "Advertising and communication services, Creative Industries, Gaming industry Graphic design, Virtual reality, VR"
     },
     {
         "company": "Silverblip Ltd",
@@ -1705,7 +2765,12 @@
         "link": "https://oulucompanies.fi/en/silverblip-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.silverblip.com",
+        "Phone": "+358 40 544 1505",
+        "Email": "seppo.nissila@silverblip.com",
+        "Address": "",
+        "Business Sector": "ICT HealthTech, IoT, Monitoring, R&amp;D, Robotics"
     },
     {
         "company": "Pharmatory Ltd",
@@ -1713,7 +2778,12 @@
         "link": "https://oulucompanies.fi/en/pharmatory-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "http://www.pharmatory.com",
+        "Phone": "+358207659988",
+        "Email": "info@pharmatory.com",
+        "Address": "P.O.Box 346, Typpitie 1, FI-90101 Oulu, Finland",
+        "Business Sector": "Health & Life Science, Life Science, pharmaceutical R&amp;D"
     },
     {
         "company": "Photographer Petteri L\u00f6pp\u00f6nen",
@@ -1721,7 +2791,12 @@
         "link": "https://oulucompanies.fi/en/lumo-image/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.petterilopponen.com/",
+        "Phone": "+358503883310",
+        "Email": "petteri@petterilopponen.com",
+        "Address": "",
+        "Business Sector": "Advertising and communication services, Creative Industries, Media"
     },
     {
         "company": "Innokas Medical Ltd.",
@@ -1729,7 +2804,12 @@
         "link": "https://oulucompanies.fi/en/innokas-medical-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.innokasmedical.fi",
+        "Phone": "+35885623100",
+        "Email": "innokas@innokasmedical.fi",
+        "Address": "",
+        "Business Sector": "Consultancy services for health industry, Health & Life Science, Health technology and eHealth, Other B2B, Connectivity, Diagnostics, Equipment, Health, HealthTech, Imaging, Monitoring, NPI services, R&amp;D"
     },
     {
         "company": "The Qt Company",
@@ -1737,7 +2817,12 @@
         "link": "https://oulucompanies.fi/en/the-qt-company/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.qt.io/",
+        "Phone": "",
+        "Email": "",
+        "Address": "www.qt.io/careers",
+        "Business Sector": "ICT, R&D-site, SW-development, SW-products IoT"
     },
     {
         "company": "TactoTek Oy",
@@ -1745,7 +2830,12 @@
         "link": "https://oulucompanies.fi/en/tactotek-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://tactotek.com",
+        "Phone": "+358 (0)50 462 1212",
+        "Email": "info@tactotek.com",
+        "Address": "Automaatiotie 1\n90460 Oulunsalo\nFinland",
+        "Business Sector": "Yleinen B2B, Industry, R&amp;D"
     },
     {
         "company": "Tosibox Oy",
@@ -1753,7 +2843,12 @@
         "link": "https://oulucompanies.fi/en/tosibox-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tosibox.com",
+        "Phone": "+358 447 090 200",
+        "Email": "sales@tosibox.com",
+        "Address": "Teknologiantie 12A\n90590 OULU",
+        "Business Sector": "HW-products, ICT, SW-development, SW-products Connectivity, IoT"
     },
     {
         "company": "Peili Vision Oy",
@@ -1761,7 +2856,12 @@
         "link": "https://oulucompanies.fi/en/peili-vision-oy/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://peilivision.fi/en",
+        "Phone": "+358 50 376 7150",
+        "Email": "info@peilivision.fi",
+        "Address": "Rantakatu 3, \n90100 Oulu \nFinland",
+        "Business Sector": "Health technology and eHealth, Yleinen B2B, B2C, eHealth, HealthTech, Physical rehabilitation, Social and health care systems, Virtual reality, VR"
     },
     {
         "company": "Tecinspire Ltd",
@@ -1769,7 +2869,12 @@
         "link": "https://oulucompanies.fi/en/tecinspire-ltd/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.tecinspire.com/en/",
+        "Phone": "+358 50 547 9571",
+        "Email": "info@tecinspire.com",
+        "Address": "Teknologiantie 18\n90590 Oulu",
+        "Business Sector": "Consultancy services for health industry, Contract Manufacturing, Development of BusinessModel, Development of CoreSystems, Health & Life Science, Health technology and eHealth, ICT, R&D-site, SW-development, SW-products, System Integration 5G, B2B, B2C, Connectivity, Diagnostics, e-Services, eHealth, Fintech, Graphic design, HealthTech, IoT, Logistics, Monitoring, R&amp;D, Service Design, SmartCity"
     },
     {
         "company": "Ginolis",
@@ -1777,7 +2882,12 @@
         "link": "https://oulucompanies.fi/en/ginolis/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://ginolis.com/",
+        "Phone": "+358 10 315 3600",
+        "Email": "info@ginolis.com",
+        "Address": "Automaatiotie 1\nFI-90460 Oulunsalo",
+        "Business Sector": "Automation technology, Health & Life Science, Life Science, pharmaceutical, Manufacturing industry, Smarter and Cleaner Industry / Cleantech and Industry B2B, Diagnostics, Equipment, Health, Laboratory solutions, Robotics"
     },
     {
         "company": "Detection Technology",
@@ -1785,7 +2895,12 @@
         "link": "https://oulucompanies.fi/en/detection-technology/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.deetee.com/",
+        "Phone": "+358 20 766 9700",
+        "Email": "contact@deetee.com",
+        "Address": "Elektroniikkatie 10, FI-90590 Oulu, Finland",
+        "Business Sector": "Electronics industry, Health & Life Science, Health technology and eHealth, Smarter and Cleaner Industry / Cleantech and Industry B2B, Fotonics, HealthTech, Imaging, Security"
     },
     {
         "company": "BusinessOulu",
@@ -1793,6 +2908,11 @@
         "link": "https://oulucompanies.fi/en/businessoulu/",
         "excluded_from_search": false,
         "already_applied": false,
-        "application_date": ""
+        "application_date": "",
+        "Website": "https://www.businessoulu.com/en",
+        "Phone": "+358 (0)8 558 558 10",
+        "Email": "info@businessoulu.com",
+        "Address": "BusinessOulu\nVisiting address: Hallituskatu 36 B\n(BusinessAsema)\n90100 Oulu",
+        "Business Sector": "Consulting services, Creative Industries, Health & Life Science, ICT, Smarter and Cleaner Industry / Cleantech and Industry, Trade, Services, Logistics, Tourism, Yleinen e-Services"
     }
 ]
