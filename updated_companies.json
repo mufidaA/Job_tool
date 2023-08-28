@@ -3,15 +3,15 @@
         "company": "Sovelluskehitt\u00e4j\u00e4t (Deveteam Oy, Identoi Oy and Isoft.ai Oy)",
         "summary": "We are a software house specializing in application development and consulting.",
         "link": "https://oulucompanies.fi/en/sovelluskehittajat-deveteam-oy-identoi-oy-and-isoft-ai-oy/",
-        "excluded_from_search": true,
-        "already_applied": true,
-        "application_date": "2023-08-28"
+        "excluded_from_search": false,
+        "already_applied": false,
+        "application_date": ""
     },
     {
         "company": "SEP Solutions",
         "summary": "Consulting, coaching and hands-on help for product development, internationalisation and funding, especially public subsidies (e.g. Business Finland\u2019s grants).",
         "link": "https://oulucompanies.fi/en/sep-solutions-2/",
-        "excluded_from_search": true,
+        "excluded_from_search": false,
         "already_applied": false,
         "application_date": ""
     },
@@ -51,7 +51,7 @@
         "company": "Kaira Films",
         "summary": "KAIRA FILMS is a Finland-based video production company.We have gathered a team of industry professionals to meet the needs of any demanding film production. We offer services from Video Production to Music Production, to match the visual with audio.",
         "link": "https://oulucompanies.fi/en/kaira-films/",
-        "excluded_from_search": true,
+        "excluded_from_search": false,
         "already_applied": false,
         "application_date": ""
     },
@@ -83,7 +83,7 @@
         "company": "GPV",
         "summary": "GPV was founded in Denmark in 1961 and is today one of Europe\u2019s leading electronics manufacturers.",
         "link": "https://oulucompanies.fi/en/enics/",
-        "excluded_from_search": true,
+        "excluded_from_search": false,
         "already_applied": false,
         "application_date": ""
     },
@@ -91,7 +91,7 @@
         "company": "Owatec Group Oy",
         "summary": "Wastewater treatment and dewatering solutions for industrial sites.",
         "link": "https://oulucompanies.fi/en/owatec-group-oy/",
-        "excluded_from_search": true,
+        "excluded_from_search": false,
         "already_applied": false,
         "application_date": ""
     },
@@ -318,7 +318,7 @@
         "excluded_from_search": false,
         "already_applied": false,
         "application_date": "",
-        "applied": true,
+        "applied": false,
         "applied_date": "2023-08-28"
     },
     {
@@ -400,7 +400,7 @@
         "excluded_from_search": false,
         "already_applied": false,
         "application_date": "",
-        "applied": true,
+        "applied": false,
         "applied_date": "2023-08-28"
     },
     {
