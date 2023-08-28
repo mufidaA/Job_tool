@@ -78,7 +78,7 @@ class MainWindow(QMainWindow):
         
         self.save_button = QPushButton('Save Changes', self)
         self.save_button.clicked.connect(self.saveChanges)
-        self.save_button.setGeometry(30, 500, 200, 30)
+        self.save_button.setGeometry(30, 520, 200, 30)
         
         self.website_label = QLabel(self)
         self.website_label.setGeometry(30, 150, 600, 30)
